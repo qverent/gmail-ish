@@ -6,8 +6,10 @@ var showSpinner = true;
 /* Populate page */
 document.addEventListener( 'DOMContentLoaded', async function () {
     // populateTagPanel();
-    // populateTable("");
     await loadData();
+    document.getElementById('loading').classList.add('hidden');
+    document.getElementById('search-bar').classList.remove('hidden');
+    document.getElementById('search-table').classList.remove('hidden');
     populateTable(jsonifiedData);
 });
 

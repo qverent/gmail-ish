@@ -1,7 +1,34 @@
-.hidden {
-    display: none;
+:root {
+    --segmed-orange-base: #f49b4d;
+    --segmed-orange-dark: #f48647; 
+    --segmed-orange-light:#f6a56b;
+    --segmed-yellow-base: #f3d76c;
+    --segmed-yellow-dark: #dcc36e;
+    --segmed-yellow-light:#f9e191;
+    --segmed-red-base: #eb5d58;
+    --segmed-red-dark: #dc4d4d;
+    --segmed-red-light: #ee7373;
+    --segmed-pink-base: #cf62a2;
+    --segmed-pink-dark:  #c1549b;
+    --segmed-pink-light: #d476ad;
 }
 
-.visible {
-    display: block;
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
 }
+
+.hidden {
+    display: none !important;
+}
+
+#loading {
+    height: 5rem;
+    position: fixed;
+    top: 40%;
+    width: 5rem;
+}
+
+/* .visible {
+    display: block;
+} */
