@@ -1,0 +1,110 @@
+Malaria
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Malaria (disambiguation).
+Not to be confused with miliaria.
+Malaria
+Malaria Parasite Connecting to Human Red Blood Cell (34034143483).jpg
+Malaria parasite connecting to a red blood cell
+Pronunciation	
+/məˈlɛəriə/
+Specialty	Infectious disease
+Symptoms	Fever, vomiting, headache, yellow skin[1]
+Complications	Seizures, coma[1]
+Usual onset	10–15 days post exposure[2]
+Causes	Plasmodium spread by mosquitoes[1]
+Diagnostic method	Examination of the blood, antigen detection tests[1]
+Prevention	Mosquito nets, insect repellent, mosquito control, medications[1]
+Medication	Antimalarial medication[2]
+Frequency	228 million (2018)[3]
+Deaths	405,000 in 2018[3]
+Malaria is a mosquito-borne infectious disease that affects humans and other animals.[2] Malaria causes symptoms that typically include fever, tiredness, vomiting, and headaches.[1] In severe cases, it can cause yellow skin, seizures, coma, or death.[1] Symptoms usually begin ten to fifteen days after being bitten by an infected mosquito.[2] If not properly treated, people may have recurrences of the disease months later.[2] In those who have recently survived an infection, reinfection usually causes milder symptoms.[1] This partial resistance disappears over months to years if the person has no continuing exposure to malaria.[1]
+
+Malaria is caused by single-celled microorganisms of the Plasmodium group.[2] The disease is most commonly spread by an infected female Anopheles mosquito.[2] The mosquito bite introduces the parasites from the mosquito's saliva into a person's blood.[2] The parasites travel to the liver where they mature and reproduce.[1] Five species of Plasmodium can infect and be spread by humans.[1] Most deaths are caused by P. falciparum, whereas P. vivax, P. ovale, and P. malariae generally cause a milder form of malaria.[1][2] The species P. knowlesi rarely causes disease in humans.[2] Malaria is typically diagnosed by the microscopic examination of blood using blood films, or with antigen-based rapid diagnostic tests.[1] Methods that use the polymerase chain reaction to detect the parasite's DNA have been developed, but are not widely used in areas where malaria is common due to their cost and complexity.[4]
+
+The risk of disease can be reduced by preventing mosquito bites through the use of mosquito nets and insect repellents or with mosquito-control measures such as spraying insecticides and draining standing water.[1] Several medications are available to prevent malaria in travellers to areas where the disease is common.[2] Occasional doses of the combination medication sulfadoxine/pyrimethamine are recommended in infants and after the first trimester of pregnancy in areas with high rates of malaria.[2] As of 2020, there is one vaccine which has been shown to reduce the risk of malaria by about 40% in children in Africa.[5][6] Efforts to develop more effective vaccines are ongoing.[6] The recommended treatment for malaria is a combination of antimalarial medications that includes artemisinin.[1][2] The second medication may be either mefloquine, lumefantrine, or sulfadoxine/pyrimethamine.[7] Quinine, along with doxycycline, may be used if artemisinin is not available.[7] It is recommended that in areas where the disease is common, malaria is confirmed if possible before treatment is started due to concerns of increasing drug resistance.[2] Resistance among the parasites has developed to several antimalarial medications; for example, chloroquine-resistant P. falciparum has spread to most malarial areas, and resistance to artemisinin has become a problem in some parts of Southeast Asia.[2]
+
+The disease is widespread in the tropical and subtropical regions that exist in a broadband around the equator.[1] This includes much of sub-Saharan Africa, Asia, and Latin America.[2] In 2018 there were 228 million cases of malaria worldwide resulting in an estimated 405,000 deaths.[3] Approximately 93% of the cases and 94% of deaths occurred in Africa.[3] Rates of disease have decreased from 2010 to 2014 but increased from 2015 to 2017, during which there were 231 million cases.[3] Malaria is commonly associated with poverty and has a significant negative effect on economic development.[8][9] In Africa, it is estimated to result in losses of US$12 billion a year due to increased healthcare costs, lost the ability to work, and adverse effects on tourism.[10]
+
+File:En.Wikipedia-VideoWiki-Malaria.webm
+Video summary (script)
+
+Contents
+1	Signs and symptoms
+1.1	Complications
+2	Cause
+2.1	Life cycle
+2.2	Recurrent malaria
+2.3	Climate change
+3	Pathophysiology
+3.1	Genetic resistance
+3.2	Liver dysfunction
+4	Diagnosis
+4.1	Classification
+5	Prevention
+5.1	Mosquito control
+5.1.1	Insectide treated nets
+5.1.2	Indoor residual spraying
+5.1.3	Other mosquito control methods
+5.2	Medications
+5.3	Others
+6	Treatment
+6.1	Uncomplicated malaria
+6.2	Severe and complicated malaria
+6.3	Resistance
+7	Prognosis
+8	Epidemiology
+9	History
+10	Society and culture
+10.1	Economic impact
+10.2	Counterfeit and substandard drugs
+10.3	War
+10.4	Eradication efforts
+11	Research
+11.1	Vaccine
+11.2	Medications
+11.3	Other
+12	Other animals
+13	References
+14	Further reading
+15	External links
+Signs and symptoms
+
+Main symptoms of malaria[11]
+The signs and symptoms of malaria typically begin 8–25 days following infection,[11] but may occur later in those who have taken antimalarial medications as prevention.[4] Initial manifestations of the disease—common to all malaria species—are similar to flu-like symptoms,[12] and can resemble other conditions such as sepsis, gastroenteritis, and viral diseases.[4] The presentation may include headache, fever, shivering, joint pain, vomiting, hemolytic anemia, jaundice, hemoglobin in the urine, retinal damage, and convulsions.[13]
+
+The classic symptom of malaria is paroxysm—a cyclical occurrence of sudden coldness followed by shivering and then fever and sweating, occurring every two days (tertian fever) in P. vivax and P. ovale infections, and every three days (quartan fever) for P. malariae. P. falciparum infection can cause recurrent fever every 36–48 hours, or a less pronounced and almost continuous fever.[14]
+
+Severe malaria is usually caused by P. falciparum (often referred to as falciparum malaria). Symptoms of falciparum malaria arise 9–30 days after infection.[12] Individuals with cerebral malaria frequently exhibit neurological symptoms, including abnormal posturing, nystagmus, conjugate gaze palsy (failure of the eyes to turn together in the same direction), opisthotonus, seizures, or coma.[12]
+
+Complications
+Malaria has several serious complications. Among these is the development of respiratory distress, which occurs in up to 25% of adults and 40% of children with severe P. falciparum malaria. Possible causes include respiratory compensation of metabolic acidosis, noncardiogenic pulmonary oedema, concomitant pneumonia, and severe anaemia. Although rare in young children with severe malaria, acute respiratory distress syndrome occurs in 5–25% of adults and up to 29% of pregnant women.[15] Coinfection of HIV with malaria increases mortality.[16] Kidney failure is a feature of blackwater fever, where haemoglobin from lysed red blood cells leaks into the urine.[12]
+
+Infection with P. falciparum may result in cerebral malaria, a form of severe malaria that involves encephalopathy. It is associated with retinal whitening, which may be a useful clinical sign in distinguishing malaria from other causes of fever.[17] An enlarged spleen, enlarged liver or both of these, severe headache, low blood sugar, and haemoglobin in the urine with kidney failure may occur.[12] Complications may include spontaneous bleeding, coagulopathy, and shock.[18]
+
+Malaria in pregnant women is an important cause of stillbirths, infant mortality, abortion and low birth weight,[19] particularly in P. falciparum infection, but also with P. vivax.[20]
+
+Cause
+Main article: Plasmodium
+Malaria parasites belong to the genus Plasmodium (phylum Apicomplexa). In humans, malaria is caused by P. falciparum, P. malariae, P. ovale, P. vivax and P. knowlesi.[21][22] Among those infected, P. falciparum is the most common species identified (~75%) followed by P. vivax (~20%).[4] Although P. falciparum traditionally accounts for the majority of deaths,[23] recent evidence suggests that P. vivax malaria is associated with potentially life-threatening conditions about as often as with a diagnosis of P. falciparum infection.[24] P. vivax proportionally is more common outside Africa.[25] There have been documented human infections with several species of Plasmodium from higher apes; however, except for P. knowlesi—a zoonotic species that causes malaria in macaques[22]—these are mostly of limited public health importance.[26]
+
+Life cycle
+
+The life cycle of malaria parasites. A mosquito causes an infection by a bite. First, sporozoites enter the bloodstream, and migrate to the liver. They infect liver cells, where they multiply into merozoites, rupture the liver cells, and return to the bloodstream. The merozoites infect red blood cells, where they develop into ring forms, trophozoites and schizonts that in turn produce further merozoites. Sexual forms are also produced, which, if taken up by a mosquito, infect the insect and continue the life cycle.
+In the life cycle of Plasmodium, a female Anopheles mosquito (the definitive host) transmits a motile infective form (called the sporozoite) to a vertebrate host such as a human (the secondary host), thus acting as a transmission vector. A sporozoite travels through the blood vessels to liver cells (hepatocytes), where it reproduces asexually (tissue schizogony), producing thousands of merozoites. These infect new red blood cells and initiate a series of asexual multiplication cycles (blood schizogony) that produce 8 to 24 new infective merozoites, at which point the cells burst and the infective cycle begins anew.[27]
+
+Other merozoites develop into immature gametocytes, which are the precursors of male and female gametes. When a fertilised mosquito bites an infected person, gametocytes are taken up with the blood and mature in the mosquito gut. The male and female gametocytes fuse and form an ookinete—a fertilised, motile zygote. Ookinetes develop into new sporozoites that migrate to the insect's salivary glands, ready to infect a new vertebrate host. The sporozoites are injected into the skin, in the saliva, when the mosquito takes a subsequent blood meal.[28]
+
+Only female mosquitoes feed on blood; male mosquitoes feed on plant nectar and do not transmit the disease. Females of the mosquito genus Anopheles prefer to feed at night. They usually start searching for a meal at dusk, and continue through the night until they succeed.[29] Malaria parasites can also be transmitted by blood transfusions, although this is rare.[30]
+
+Recurrent malaria
+Symptoms of malaria can recur after varying symptom-free periods. Depending upon the cause, recurrence can be classified as either recrudescence, relapse, or reinfection. Recrudescence is when symptoms return after a symptom-free period. It is caused by parasites surviving in the blood as a result of inadequate or ineffective treatment.[31] Relapse is when symptoms reappear after the parasites have been eliminated from the blood but persist as dormant hypnozoites in liver cells.[32] Relapse commonly occurs between 8–24 weeks and is often seen in P. vivax and P. ovale infections.[4] However, relapse-like P. vivax recurrences are probably being over-attributed to hypnozoite activation. Some of them might have an extra-vascular merozoite origin, making these recurrences recrudescences, not relapses.[33] One newly recognised, non-hypnozoite, possible contributing source to recurrent peripheral P. vivax parasitemia is erythrocytic forms in bone marrow.[34] P. vivax malaria cases in temperate areas often involve overwintering by hypnozoites, with relapses beginning the year after the mosquito bite.[35] Reinfection means the parasite that caused the past infection was eliminated from the body but a new parasite was introduced. Reinfection cannot readily be distinguished from recrudescence, although recurrence of infection within two weeks of treatment for the initial infection is typically attributed to treatment failure.[36] People may develop some immunity when exposed to frequent infections.[37]
+
+Climate change
+See also: Effects of global warming on human health § Malaria
+Global climate change is likely to affect malaria transmission, but the degree of effect and the areas affected is uncertain.[38] Greater rainfall in certain areas of India, and following an El Niño event is associated with increased mosquito numbers.[39]
+
+Since 1900 there has been substantial change in temperature and rainfall over Africa[40]. However, factors that contribute to how rainfall results in water for mosquito breeding are complex, incorporating the extent to which it is absorbed into soil and vegetation for example, or rates of runoff and evaporation.[41] Recent research has provided a more in-depth picture of conditions across Africa, combining a malaria climatic suitability model with a continental-scale model representing real-world hydrological processes.[41]
+
+Pathophysiology
+Further information: Plasmodium falciparum § Pathogenesis

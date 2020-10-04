@@ -1,0 +1,161 @@
+Polio
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Poliomyelitis redirects here. For the virus, see Poliovirus. For other uses, see Polio (disambiguation).
+Polio
+Other names	Poliomyelitis, infantile paralysis
+Polio lores134.jpg
+A man with a smaller right leg due to poliomyelitis
+Pronunciation	
+ˌpoʊlioʊˌmaɪəˈlaɪtɪs
+Specialty	Neurology, Infectious disease
+Symptoms	Muscle weakness resulting in an inability to move[1]
+Complications	Post-polio syndrome[2]
+Usual onset	Few hours to days[1][3]
+Causes	Poliovirus spread by fecal-oral route[1]
+Diagnostic method	Finding the virus in the feces or antibodies in the blood[1]
+Prevention	Polio vaccine[3]
+Treatment	Supportive care[3]
+Frequency	136 people (2018)[4]
+Poliomyelitis, commonly shortened to polio, is an infectious disease caused by the poliovirus.[1] In about 0.5 percent of cases, it moves from the gut to affect the central nervous system and there is muscle weakness resulting in a flaccid paralysis.[1] This can occur over a few hours to a few days.[1][3] The weakness most often involves the legs, but may less commonly involve the muscles of the head, neck and diaphragm.[1] Many people fully recover.[1] In those with muscle weakness, about 2 to 5 percent of children and 15 to 30 percent of adults die.[1] For all those infected, in up to 70 percent of infections there are no symptoms.[1] Another 25 percent of people have minor symptoms such as fever and a sore throat, and up to 5 percent have headache, neck stiffness and pains in the arms and legs.[1][3] These people are usually back to normal within one or two weeks.[1] Years after recovery, post-polio syndrome may occur, with a slow development of muscle weakness similar to that which the person had during the initial infection.[2]
+
+Poliovirus is usually spread from person to person through infected fecal matter entering the mouth.[1] It may also be spread by food or water containing human feces and less commonly from infected saliva.[1][3] Those who are infected may spread the disease for up to six weeks even if no symptoms are present.[1] The disease may be diagnosed by finding the virus in the feces or detecting antibodies against it in the blood.[1] The disease occurs naturally only in humans.[1]
+
+The disease is preventable with the polio vaccine; however, multiple doses are required for it to be effective.[3] The US Centers for Disease Control and Prevention recommends polio vaccination boosters for travelers and those who live in countries where the disease is occurring.[5] Once infected there is no specific treatment.[3] In 2018, there were 33 cases of wild polio and 104 cases of vaccine-derived polio.[4] This is down from 350,000 wild cases in 1988.[3] In 2018, the wild disease was spread between people only in Afghanistan and Pakistan.[4] In 2019 there were 175 cases of wild polio and 364 cases of vaccine-derived polio.[6]
+
+Poliomyelitis has existed for thousands of years, with depictions of the disease in ancient art.[1] The disease was first recognized as a distinct condition by the English physician Michael Underwood in 1789[1] and the virus that causes it was first identified in 1908 by the Austrian immunologist Karl Landsteiner.[7] Major outbreaks started to occur in the late 19th century in Europe and the United States.[1] In the 20th century it became one of the most worrying childhood diseases in these areas.[8] The first polio vaccine was developed in the 1950s by Jonas Salk.[9] Soon after, Albert Sabin developed an oral vaccine, which has become the world standard.[10]
+
+
+Contents
+1	Signs and symptoms
+2	Cause
+2.1	Transmission
+3	Pathophysiology
+3.1	Paralytic polio
+4	Diagnosis
+5	Prevention
+5.1	Passive immunization
+5.2	Vaccine
+6	Treatment
+7	Prognosis
+7.1	Recovery
+7.2	Complications
+7.3	Post-polio syndrome
+8	Epidemiology
+8.1	Afghanistan and Pakistan
+8.2	Americas
+8.3	Western Pacific
+8.4	Europe
+8.5	Southeast Asia
+8.6	Middle East
+8.7	Africa
+9	History
+9.1	Etymology
+10	Research
+11	References
+12	Further reading
+13	External links
+Signs and symptoms
+Outcomes of poliovirus infection
+Outcome	Proportion of cases[1]
+No symptoms	72%
+Minor illness	24%
+Nonparalytic aseptic
+meningitis	1–5%
+Paralytic poliomyelitis	0.1–0.5%
+— Spinal polio	79% of paralytic cases
+— Bulbospinal polio	19% of paralytic cases
+— Bulbar polio	2% of paralytic cases
+The term poliomyelitis is used to identify the disease caused by any of the three serotypes of poliovirus. Two basic patterns of polio infection are described a minor illness which does not involve the central nervous system (CNS), sometimes called abortive poliomyelitis, and a major illness involving the CNS, which may be paralytic or nonparalytic.[11] In most people with a normal immune system, a poliovirus infection is asymptomatic. Rarely, the infection produces minor symptoms; these may include upper respiratory tract infection (sore throat and fever), gastrointestinal disturbances (nausea, vomiting, abdominal pain, constipation or, rarely, diarrhea), and influenza-like illness.[1]
+
+The virus enters the central nervous system in about 1 percent of infections. Most patients with CNS involvement develop nonparalytic aseptic meningitis, with symptoms of headache, neck, back, abdominal and extremity pain, fever, vomiting, lethargy, and irritability.[12][13] About one to five in 1000 cases progress to paralytic disease, in which the muscles become weak, floppy and poorly controlled, and, finally, completely paralyzed; this condition is known as acute flaccid paralysis.[14] Depending on the site of paralysis, paralytic poliomyelitis is classified as spinal, bulbar, or bulbospinal. Encephalitis, an infection of the brain tissue itself, can occur in rare cases, and is usually restricted to infants. It is characterized by confusion, changes in mental status, headaches, fever, and, less commonly, seizures and spastic paralysis.[15]
+
+Cause
+Main article Poliovirus
+
+A TEM micrograph of poliovirus
+Poliomyelitis is caused by infection with a member of the genus Enterovirus known as poliovirus (PV). This group of RNA viruses colonize the gastrointestinal tract[16] – specifically the oropharynx and the intestine. The incubation time (to the first signs and symptoms) ranges from three to 35 days, with a more common span of six to 20 days.[1] PV infects and causes disease in humans alone.[17] Its structure is very simple, composed of a single (+) sense RNA genome enclosed in a protein shell called a capsid.[17] In addition to protecting the virus' genetic material, the capsid proteins enable poliovirus to infect certain types of cells. Three serotypes of poliovirus have been identified – poliovirus type 1 (PV1), type 2 (PV2), and type 3 (PV3) – each with a slightly different capsid protein.[18] All three are extremely virulent and produce the same disease symptoms.[17] PV1 is the most commonly encountered form, and the one most closely associated with paralysis.[19]
+
+Individuals who are exposed to the virus, either through infection or by immunization with polio vaccine, develop immunity. In immune individuals, IgA antibodies against poliovirus are present in the tonsils and gastrointestinal tract, and are able to block virus replication; IgG and IgM antibodies against PV can prevent the spread of the virus to motor neurons of the central nervous system.[20] Infection or vaccination with one serotype of poliovirus does not provide immunity against the other serotypes, and full immunity requires exposure to each serotype.[20]
+
+A rare condition with a similar presentation, nonpoliovirus poliomyelitis, may result from infections with nonpoliovirus enteroviruses.[21]
+
+Transmission
+Poliomyelitis is highly contagious via the fecal-oral (intestinal source) and the oral-oral (oropharyngeal source) routes.[20] In endemic areas, wild polioviruses can infect virtually the entire human population.[22] It is seasonal in temperate climates, with peak transmission occurring in summer and autumn.[20] These seasonal differences are far less pronounced in tropical areas.[22] The time between first exposure and first symptoms, known as the incubation period, is usually 6 to 20 days, with a maximum range of 3 to 35 days.[23] Virus particles are excreted in the feces for several weeks following initial infection.[23] The disease is transmitted primarily via the fecal-oral route, by ingesting contaminated food or water. It is occasionally transmitted via the oral-oral route,[19] a mode especially visible in areas with good sanitation and hygiene.[20] Polio is most infectious between 7 and 10 days before and after the appearance of symptoms, but transmission is possible as long as the virus remains in the saliva or feces.[19]
+
+Factors that increase the risk of polio infection or affect the severity of the disease include immune deficiency,[24] malnutrition,[25] physical activity immediately following the onset of paralysis,[26] skeletal muscle injury due to injection of vaccines or therapeutic agents,[27] and pregnancy.[28] Although the virus can cross the maternal-fetal barrier during pregnancy, the fetus does not appear to be affected by either maternal infection or polio vaccination.[29] Maternal antibodies also cross the placenta, providing passive immunity that protects the infant from polio infection during the first few months of life.[30]
+
+Pathophysiology
+
+A blockage of the lumbar anterior spinal cord artery due to polio (PV3)
+Poliovirus enters the body through the mouth, infecting the first cells with which it comes in contact – the pharynx and intestinal mucosa. It gains entry by binding to an immunoglobulin-like receptor, known as the poliovirus receptor or CD155, on the cell membrane.[31] The virus then hijacks the host cell's own machinery, and begins to replicate. Poliovirus divides within gastrointestinal cells for about a week, from where it spreads to the tonsils (specifically the follicular dendritic cells residing within the tonsilar germinal centers), the intestinal lymphoid tissue including the M cells of Peyer's patches, and the deep cervical and mesenteric lymph nodes, where it multiplies abundantly. The virus is subsequently absorbed into the bloodstream.[32]
+
+Known as viremia, the presence of a virus in the bloodstream enables it to be widely distributed throughout the body. Poliovirus can survive and multiply within the blood and lymphatics for long periods of time, sometimes as long as 17 weeks.[33] In a small percentage of cases, it can spread and replicate in other sites, such as brown fat, the reticuloendothelial tissues, and muscle.[34] This sustained replication causes a major viremia, and leads to the development of minor influenza-like symptoms. Rarely, this may progress and the virus may invade the central nervous system, provoking a local inflammatory response. In most cases, this causes a self-limiting inflammation of the meninges, the layers of tissue surrounding the brain, which is known as nonparalytic aseptic meningitis.[12] Penetration of the CNS provides no known benefit to the virus, and is quite possibly an incidental deviation of a normal gastrointestinal infection.[35] The mechanisms by which poliovirus spreads to the CNS are poorly understood, but it appears to be primarily a chance event – largely independent of the age, gender, or socioeconomic position of the individual.[35]
+
+Paralytic polio
+
+Denervation of skeletal muscle tissue secondary to poliovirus infection can lead to paralysis.
+In around 1 percent of infections, poliovirus spreads along certain nerve fiber pathways, preferentially replicating in and destroying motor neurons within the spinal cord, brain stem, or motor cortex. This leads to the development of paralytic poliomyelitis, the various forms of which (spinal, bulbar, and bulbospinal) vary only with the amount of neuronal damage and inflammation that occurs, and the region of the CNS affected.
+
+The destruction of neuronal cells produces lesions within the spinal ganglia; these may also occur in the reticular formation, vestibular nuclei, cerebellar vermis, and deep cerebellar nuclei.[35] Inflammation associated with nerve cell destruction often alters the color and appearance of the gray matter in the spinal column, causing it to appear reddish and swollen.[12] Other destructive changes associated with paralytic disease occur in the forebrain region, specifically the hypothalamus and thalamus.[35] The molecular mechanisms by which poliovirus causes paralytic disease are poorly understood.
+
+Early symptoms of paralytic polio include high fever, headache, stiffness in the back and neck, asymmetrical weakness of various muscles, sensitivity to touch, difficulty swallowing, muscle pain, loss of superficial and deep reflexes, paresthesia (pins and needles), irritability, constipation, or difficulty urinating. Paralysis generally develops one to ten days after early symptoms begin, progresses for two to three days, and is usually complete by the time the fever breaks.[36]
+
+The likelihood of developing paralytic polio increases with age, as does the extent of paralysis. In children, nonparalytic meningitis is the most likely consequence of CNS involvement, and paralysis occurs in only one in 1000 cases. In adults, paralysis occurs in one in 75 cases.[37] In children under five years of age, paralysis of one leg is most common; in adults, extensive paralysis of the chest and abdomen also affecting all four limbs – quadriplegia – is more likely.[38] Paralysis rates also vary depending on the serotype of the infecting poliovirus; the highest rates of paralysis (one in 200) are associated with poliovirus type 1, the lowest rates (one in 2,000) are associated with type 2.[39]
+
+Spinal polio
+
+The location of motor neurons in the anterior horn cells of the spinal column
+Spinal polio, the most common form of paralytic poliomyelitis, results from viral invasion of the motor neurons of the anterior horn cells, or the ventral (front) grey matter section in the spinal column, which are responsible for movement of the muscles, including those of the trunk, limbs, and the intercostal muscles.[14] Virus invasion causes inflammation of the nerve cells, leading to damage or destruction of motor neuron ganglia. When spinal neurons die, Wallerian degeneration takes place, leading to weakness of those muscles formerly innervated by the now-dead neurons.[40] With the destruction of nerve cells, the muscles no longer receive signals from the brain or spinal cord; without nerve stimulation, the muscles atrophy, becoming weak, floppy and poorly controlled, and finally completely paralyzed.[14] Maximum paralysis progresses rapidly (two to four days), and usually involves fever and muscle pain. Deep tendon reflexes are also affected, and are typically absent or diminished; sensation (the ability to feel) in the paralyzed limbs, however, is not affected.[41]
+
+The extent of spinal paralysis depends on the region of the cord affected, which may be cervical, thoracic, or lumbar.[42] The virus may affect muscles on both sides of the body, but more often the paralysis is asymmetrical.[32] Any limb or combination of limbs may be affected – one leg, one arm, or both legs and both arms. Paralysis is often more severe proximally (where the limb joins the body) than distally (the fingertips and toes).[32]
+
+Bulbar polio
+
+The location and anatomy of the bulbar region (in orange)
+Making up about two percent of cases of paralytic polio, bulbar polio occurs when poliovirus invades and destroys nerves within the bulbar region of the brain stem.[1] The bulbar region is a white matter pathway that connects the cerebral cortex to the brain stem. The destruction of these nerves weakens the muscles supplied by the cranial nerves, producing symptoms of encephalitis, and causes difficulty breathing, speaking and swallowing.[13] Critical nerves affected are the glossopharyngeal nerve (which partially controls swallowing and functions in the throat, tongue movement, and taste), the vagus nerve (which sends signals to the heart, intestines, and lungs), and the accessory nerve (which controls upper neck movement). Due to the effect on swallowing, secretions of mucus may build up in the airway, causing suffocation.[36] Other signs and symptoms include facial weakness (caused by destruction of the trigeminal nerve and facial nerve, which innervate the cheeks, tear ducts, gums, and muscles of the face, among other structures), double vision, difficulty in chewing, and abnormal respiratory rate, depth, and rhythm (which may lead to respiratory arrest). Pulmonary edema and shock are also possible and may be fatal.[42]
+
+Bulbospinal polio
+Approximately 19 percent of all paralytic polio cases have both bulbar and spinal symptoms; this subtype is called respiratory or bulbospinal polio.[1] Here, the virus affects the upper part of the cervical spinal cord (cervical vertebrae C3 through C5), and paralysis of the diaphragm occurs. The critical nerves affected are the phrenic nerve (which drives the diaphragm to inflate the lungs) and those that drive the muscles needed for swallowing. By destroying these nerves, this form of polio affects breathing, making it difficult or impossible for the patient to breathe without the support of a ventilator. It can lead to paralysis of the arms and legs and may also affect swallowing and heart functions.[43]
+
+Diagnosis
+Paralytic poliomyelitis may be clinically suspected in individuals experiencing acute onset of flaccid paralysis in one or more limbs with decreased or absent tendon reflexes in the affected limbs that cannot be attributed to another apparent cause, and without sensory or cognitive loss.[44]
+
+A laboratory diagnosis is usually made based on recovery of poliovirus from a stool sample or a swab of the pharynx. Antibodies to poliovirus can be diagnostic, and are generally detected in the blood of infected patients early in the course of infection.[1] Analysis of the patient's cerebrospinal fluid (CSF), which is collected by a lumbar puncture (spinal tap), reveals an increased number of white blood cells (primarily lymphocytes) and a mildly elevated protein level. Detection of virus in the CSF is diagnostic of paralytic polio, but rarely occurs.[1]
+
+If poliovirus is isolated from a patient experiencing acute flaccid paralysis, it is further tested through oligonucleotide mapping (genetic fingerprinting), or more recently by PCR amplification, to determine whether it is wild type (that is, the virus encountered in nature) or vaccine type (derived from a strain of poliovirus used to produce polio vaccine).[45] It is important to determine the source of the virus because for each reported case of paralytic polio caused by wild poliovirus, an estimated 200 to 3,000 other contagious asymptomatic carriers exist.[46]
+
+Prevention
+Passive immunization
+In 1950, William Hammon at the University of Pittsburgh purified the gamma globulin component of the blood plasma of polio survivors.[47] Hammon proposed the gamma globulin, which contained antibodies to poliovirus, could be used to halt poliovirus infection, prevent disease, and reduce the severity of disease in other patients who had contracted polio. The results of a large clinical trial were promising; the gamma globulin was shown to be about 80 percent effective in preventing the development of paralytic poliomyelitis.[48] It was also shown to reduce the severity of the disease in patients who developed polio.[47] Due to the limited supply of blood plasma gamma globulin was later deemed impractical for widespread use and the medical community focused on the development of a polio vaccine.[49]
+
+Vaccine
+Main article Polio vaccine
+
+A child receiving an oral polio vaccine
+Two types of vaccine are used throughout the world to combat polio. Both types induce immunity to polio, efficiently blocking person-to-person transmission of wild poliovirus, thereby protecting both individual vaccine recipients and the wider community (so-called herd immunity).[50]
+
+The first candidate polio vaccine, based on one serotype of a live but attenuated (weakened) virus, was developed by the virologist Hilary Koprowski. Koprowski's prototype vaccine was given to an eight-year-old boy on 27 February 1950.[51] Koprowski continued to work on the vaccine throughout the 1950s, leading to large-scale trials in the then Belgian Congo and the vaccination of seven million children in Poland against serotypes PV1 and PV3 between 1958 and 1960.[52]
+
+The second inactivated polio virus vaccine was developed in 1952 by Jonas Salk at the University of Pittsburgh, and announced to the world on 12 April 1955.[53][54] The Salk vaccine, or inactivated poliovirus vaccine, is based on poliovirus grown in a type of monkey kidney tissue culture (vero cell line), which is chemically inactivated with formalin.[20] After two doses of inactivated poliovirus vaccine (given by injection), 90 percent or more of individuals develop protective antibody to all three serotypes of poliovirus, and at least 99 percent are immune to poliovirus following three doses.[1]
+
+Subsequently, Albert Sabin developed another live, oral polio vaccine. It was produced by the repeated passage of the virus through nonhuman cells at subphysiological temperatures.[55] The attenuated poliovirus in the Sabin vaccine replicates very efficiently in the gut, the primary site of wild poliovirus infection and replication, but the vaccine strain is unable to replicate efficiently within nervous system tissue.[56] A single dose of Sabin's oral polio vaccine produces immunity to all three poliovirus serotypes in about 50 percent of recipients. Three doses of live-attenuated oral vaccine produce protective antibody to all three poliovirus types in more than 95 percent of recipients.[1] Human trials of Sabin's vaccine began in 1957,[57] and in 1958 it was selected, in competition with the live vaccines of Koprowski and other researchers, by the US National Institutes of Health.[52] Licensed in 1962,[57] it rapidly became the only polio vaccine used worldwide.[52]
+
+
+Wild polio vs cVDVP cases (2000–2019)
+Because the oral polio vaccine is inexpensive, easy to administer, and produces excellent immunity in the intestine (which helps prevent infection with wild virus in areas where it is endemic), it has been the vaccine of choice for controlling poliomyelitis in many countries.[58] On very rare occasions (about one case per 750,000 vaccine recipients), the attenuated virus in the oral polio vaccine reverts into a form that can paralyze.[23] In 2017, cases caused by vaccine-derived poliovirus (cVDPV) outnumbered wild poliovirus cases for the first time, due to wild polio cases hitting record lows and relaxed vaccination levels.[59] Most industrialized countries have switched to inactivated polio vaccine, which cannot revert, either as the sole vaccine against poliomyelitis or in combination with oral polio vaccine.[60]
+
+Treatment
+There is no cure for polio. The focus of modern treatment has been on providing relief of symptoms, speeding recovery and preventing complications. Supportive measures include antibiotics to prevent infections in weakened muscles, analgesics for pain, moderate exercise and a nutritious diet.[61] Treatment of polio often requires long-term rehabilitation, including occupational therapy, physical therapy, braces, corrective shoes and, in some cases, orthopedic surgery.[42]
+
+Portable ventilators may be required to support breathing. Historically, a noninvasive, negative-pressure ventilator, more commonly called an iron lung, was used to artificially maintain respiration during an acute polio infection until a person could breathe independently (generally about one to two weeks). Today, many polio survivors with permanent respiratory paralysis use modern jacket-type negative-pressure ventilators worn over the chest and abdomen.[62]
+
+Other historical treatments for polio include hydrotherapy, electrotherapy, massage and passive motion exercises, and surgical treatments, such as tendon lengthening and nerve grafting.[14]
+
+Prognosis
+
+A girl with a deformity of her right leg due to polio
+Patients with abortive polio infections recover completely. In those who develop only aseptic meningitis, the symptoms can be expected to persist for two to ten days, followed by complete recovery.[63] In cases of spinal polio, if the affected nerve cells are completely destroyed, paralysis will be permanent; cells that are not destroyed, but lose function temporarily, may recover within four to six weeks after onset.[63] Half the patients with spinal polio recover fully; one-quarter recover with mild disability, and the remaining quarter are left with severe disability.[64] The degree of both acute paralysis and residual paralysis is likely to be proportional to the degree of viremia, and inversely proportional to the degree of immunity.[35] Spinal polio is rarely fatal.[36]
+
+Without respiratory support, consequences of poliomyelitis with respiratory involvement include suffocation or pneumonia from aspiration of secretions.[62] Overall, 5 to 10 percent of patients with paralytic polio die due to the paralysis of muscles used for breathing. The case fatality rate (CFR) varies by age 2 to 5 percent of children and up to 15 to 30 percent of adults die.[1] Bulbar polio often causes death if respiratory support is not provided;[43] with support, its CFR ranges from 25 to 75 percent, depending on the age of the patient.[1][65] When intermittent positive pressure ventilation is available, the fatalities can be reduced to 15 percent.[66]
+

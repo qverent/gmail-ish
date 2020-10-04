@@ -1,0 +1,122 @@
+Exfoliative toxins
+See also: Exfoliatin
+Exfoliative toxins are exotoxins implicated in the disease staphylococcal scalded skin syndrome (SSSS), which occurs most commonly in infants and young children. It also may occur as epidemics in hospital nurseries. The protease activity of the exfoliative toxins causes peeling of the skin observed with SSSS.[56]
+Other toxins
+Staphylococcal toxins that act on cell membranes include alpha toxin, beta toxin, delta toxin, and several bicomponent toxins. Strains of S. aureus can host phages, such as the prophage Φ-PVL that produces Panton-Valentine leukocidin (PVL), to increase virulence. The bicomponent toxin PVL is associated with severe necrotizing pneumonia in children.[57][58] The genes encoding the components of PVL are encoded on a bacteriophage found in community-associated MRSA strains.[citation needed]
+Small RNA
+The list of small RNAs involved in the control of bacterial virulence in S. aureus is growing. This can be facilitated by factors such as increased biofilm formation in the presence of increased levels of such small RNAs.[59] For example, RNAIII,[60] SprD,[61] SprC,[62][63] RsaE,[64] SprA1,[65] SSR42,[66] ArtR,[67] SprX, and Teg49.[68]
+
+Strategies for post-transcriptional regulation by 3'untranslated region
+Many mRNAs in S. aureus carry three prime untranslated regions (3'UTR) longer than 100 nucleotides, which may potentially have a regulatory function.[69]
+
+Further investigation of icaR mRNA (mRNA coding for the repressor of the main expolysaccharidic compound of the bacteria biofilm matrix) demonstrated that the 3'UTR binding to the 5' UTR can interfere with the translation initiation complex and generate a double stranded substrate for RNase III. The interaction is between the UCCCCUG motif in the 3'UTR and the Shine-Dalagarno region at the 5'UTR. Deletion of the motif resulted in IcaR repressor accumulation and inhibition of biofilm development.[69] The biofilm formation is the main cause of Staphylococcus implant infections.[70]
+
+Biofilm
+Biofilms are groups of microorganisms, such as bacteria, that attach to each other and grow on wet surfaces.[71] S. aureus biofilm has high resistance to antibiotic treatments and host immune response.[71] One hypothesis for explaining this is that the biofilm matrix protects the embedded cells by acting as a barrier to prevent antibiotic penetration. However, the biofilm matrix is composed with many water channels, so this hypothesis is becoming increasingly less likely, but a biofilm matrix possibly contains antibiotic‐degrading enzymes such as β-lactamases, which can prevent antibiotic penetration.[72] Another hypothesis is that the conditions in the biofilm matrix favor the formation of persister cells, which are highly antibiotic-resistant, dormant bacterial cells.[44] S. aureus biofilms also have high resistance to host immune response. Though the exact mechanism of resistance is unknown, S. aureus biofilms have increased growth under the presence of cytokines produced by the host immune response.[73] Host antibodies are less effective for S. aureus biofilm due to the heterogeneous antigen distribution, where an antigen may be present in some areas of the biofilm, but completely absent from other areas.[44]
+
+Other immunoevasive strategies
+Protein A
+Protein A is anchored to staphylococcal peptidoglycan pentaglycine bridges (chains of five glycine residues) by the transpeptidase sortase A.[74] Protein A, an IgG-binding protein, binds to the Fc region of an antibody. In fact, studies involving mutation of genes coding for protein A resulted in a lowered virulence of S. aureus as measured by survival in blood, which has led to speculation that protein A-contributed virulence requires binding of antibody Fc regions.[75]
+
+Protein A in various recombinant forms has been used for decades to bind and purify a wide range of antibodies by immunoaffinity chromatography. Transpeptidases, such as the sortases responsible for anchoring factors like protein A to the staphylococcal peptidoglycan, are being studied in hopes of developing new antibiotics to target MRSA infections.[76]
+
+
+S. aureus on trypticase soy agar: The strain is producing a yellow pigment staphyloxanthin.
+Staphylococcal pigments
+Some strains of S. aureus are capable of producing staphyloxanthin — a golden-coloured carotenoid pigment. This pigment acts as a virulence factor, primarily by being a bacterial antioxidant which helps the microbe evade the reactive oxygen species which the host immune system uses to kill pathogens.[77][78]
+
+Mutant strains of S. aureus modified to lack staphyloxanthin are less likely to survive incubation with an oxidizing chemical, such as hydrogen peroxide, than pigmented strains. Mutant colonies are quickly killed when exposed to human neutrophils, while many of the pigmented colonies survive.[77] In mice, the pigmented strains cause lingering abscesses when inoculated into wounds, whereas wounds infected with the unpigmented strains quickly heal.
+
+These tests suggest the Staphylococcus strains use staphyloxanthin as a defence against the normal human immune system. Drugs designed to inhibit the production of staphyloxanthin may weaken the bacterium and renew its susceptibility to antibiotics.[78] In fact, because of similarities in the pathways for biosynthesis of staphyloxanthin and human cholesterol, a drug developed in the context of cholesterol-lowering therapy was shown to block S. aureus pigmentation and disease progression in a mouse infection model.[79]
+
+Classical diagnosis
+
+Typical Gram-positive cocci, in clusters, from a sputum sample, Gram stain
+Depending upon the type of infection present, an appropriate specimen is obtained accordingly and sent to the laboratory for definitive identification by using biochemical or enzyme-based tests. A Gram stain is first performed to guide the way, which should show typical Gram-positive bacteria, cocci, in clusters. Second, the isolate is cultured on mannitol salt agar, which is a selective medium with 7–9% NaCl that allows S. aureus to grow, producing yellow-colored colonies as a result of mannitol fermentation and subsequent drop in the medium's pH.[citation needed]
+
+Furthermore, for differentiation on the species level, catalase (positive for all Staphylococcus species), coagulase (fibrin clot formation, positive for S. aureus), DNAse (zone of clearance on DNase agar), lipase (a yellow color and rancid odor smell), and phosphatase (a pink color) tests are all done. For staphylococcal food poisoning, phage typing can be performed to determine whether the staphylococci recovered from the food were the source of infection.[citation needed]
+
+Rapid diagnosis and typing
+Recent activities and food that a patient has recently eaten will be inquired about by a physician, and a physical examination is conducted to review any symptoms. With more severe symptoms, blood tests and stool culture may be in order.[80] Diagnostic microbiology laboratories and reference laboratories are key for identifying outbreaks and new strains of S. aureus. Recent genetic advances have enabled reliable and rapid techniques for the identification and characterization of clinical isolates of S. aureus in real time. These tools support infection control strategies to limit bacterial spread and ensure the appropriate use of antibiotics. Quantitative PCR is increasingly being used to identify outbreaks of infection.[81][82]
+
+When observing the evolvement of S. aureus and its ability to adapt to each modified antibiotic, two basic methods known as "band-based" or "sequence-based" are employed.[83] Keeping these two methods in mind, other methods such as multilocus sequence typing (MLST), pulsed-field gel electrophoresis (PFGE), bacteriophage typing, spa locus typing, and SCCmec typing are often conducted more than others.[84] With these methods, it can be determined where strains of MRSA originated and also where they are currently.[85]
+
+With MLST, this technique of typing uses fragments of several housekeeping genes known as aroE, glpF, gmk, pta, tip, and yqiL. These sequences are then assigned a number which give to a string of several numbers that serve as the allelic profile. Although this is a common method, a limitation about this method is the maintenance of the microarray which detects newly allelic profiles, making it a costly and time-consuming experiment.[83]
+
+With PFGE, a method which is still very much used dating back to its first success in 1980s, remains capable of helping differentiate MRSA isolates.[85] To accomplish this, the technique uses multiple gel electrophoresis, along with a voltage gradient to display clear resolutions of molecules. The S. aureus fragments then transition down the gel, producing specific band patterns that are later compared with other isolates in hopes of identifying related strains. Limitations of the method include practical difficulties with uniform band patterns and PFGE sensitivity as a whole.
+
+Spa locus typing is also considered a popular technique that uses a single locus zone in a polymorphic region of S. aureus to distinguish any form of mutations.[85] Although this technique is often inexpensive and less time-consuming, the chance of losing discriminatory power making it hard to differentiate between MLST clonal complexes exemplifies a crucial limitation.
+
+Treatment
+The treatment of choice for S. aureus infection is penicillin. An antibiotic derived from some Penicillium fungal species, penicillin inhibits the formation of peptidoglycan cross-linkages that provide the rigidity and strength in a bacterial cell wall. The four-membered β-lactam ring of penicillin is bound to enzyme DD-transpeptidase, an enzyme that when functional, cross-links chains of peptidoglycan that form bacterial cell walls. The binding of β-lactam to DD-transpeptidase inhibits the enzyme's functionality and it can no longer catalyze the formation of the cross-links. As a result, cell wall formation and degradation are imbalanced, thus resulting in cell death. In most countries, however, penicillin resistance is extremely common, and first-line therapy is most commonly a penicillinase-resistant β-lactam antibiotic (for example, oxacillin or flucloxacillin, both of which have the same mechanism of action as penicillin). Combination therapy with gentamicin may be used to treat serious infections, such as endocarditis,[86][87] but its use is controversial because of the high risk of damage to the kidneys.[88] The duration of treatment depends on the site of infection and on severity. Adjunctive rifampicin has been historically used in the management of S aureus bacteraemia, but randomised controlled trial evidence has shown this to be of no overall benefit over standard antibiotic therapy.[89]
+
+Antibiotic resistance in S. aureus was uncommon when penicillin was first introduced in 1943. Indeed, the original Petri dish on which Alexander Fleming of Imperial College London observed the antibacterial activity of the Penicillium fungus was growing a culture of S. aureus. By 1950, 40% of hospital S. aureus isolates were penicillin-resistant; by 1960, this had risen to 80%.[90]
+
+MRSA, often pronounced /ˈmɜːrsə/ or /ɛm ɑːr ɛs eɪ/, is one of a number of greatly feared strains of S. aureus which have become resistant to most β-lactam antibiotics. For this reason, vancomycin, a glycopeptide antibiotic, is commonly used to combat MRSA. Vancomycin inhibits the synthesis of peptidoglycan, but unlike β-lactam antibiotics, glycopeptide antibiotics target and bind to amino acids in the cell wall, preventing peptidoglycan cross-linkages from forming. MRSA strains are most often found associated with institutions such as hospitals, but are becoming increasingly prevalent in community-acquired infections.
+
+Minor skin infections can be treated with triple antibiotic ointment.[91]
+
+Antibiotic resistance
+Main article: Antimicrobial resistance
+
+Bacterial cells of S. aureus, which is one of the causal agents of mastitis in dairy cows: Its large capsule protects the organism from attack by the cow's immunological defenses.
+Staphylococcal resistance to penicillin is mediated by penicillinase (a form of beta-lactamase) production: an enzyme that cleaves the β-lactam ring of the penicillin molecule, rendering the antibiotic ineffective. Penicillinase-resistant β-lactam antibiotics, such as methicillin, nafcillin, oxacillin, cloxacillin, dicloxacillin, and flucloxacillin are able to resist degradation by staphylococcal penicillinase.
+
+
+Susceptibility to commonly used antibiotics.
+Resistance to methicillin is mediated via the mec operon, part of the staphylococcal cassette chromosome mec (SCCmec). SCCmec is a family of mobile genetic elements, which is a major driving force of S. aureus evolution.[92] Resistance is conferred by the mecA gene, which codes for an altered penicillin-binding protein (PBP2a or PBP2') that has a lower affinity for binding β-lactams (penicillins, cephalosporins, and carbapenems). This allows for resistance to all β-lactam antibiotics, and obviates their clinical use during MRSA infections. Studies have explained that this mobile genetic element has been acquired by different lineages in separate gene transfer events, indicating that there is not a common ancestor of differing MRSA strains.[citation needed]
+
+Aminoglycoside antibiotics, such as kanamycin, gentamicin, streptomycin, were once effective against staphylococcal infections until strains evolved mechanisms to inhibit the aminoglycosides' action, which occurs via protonated amine and/or hydroxyl interactions with the ribosomal RNA of the bacterial 30S ribosomal subunit.[93] Three main mechanisms of aminoglycoside resistance mechanisms are currently and widely accepted: aminoglycoside modifying enzymes, ribosomal mutations, and active efflux of the drug out of the bacteria.
+
+Aminoglycoside-modifying enzymes inactivate the aminoglycoside by covalently attaching either a phosphate, nucleotide, or acetyl moiety to either the amine or the alcohol key functional group (or both groups) of the antibiotic. This changes the charge or sterically hinders the antibiotic, decreasing its ribosomal binding affinity. In S. aureus, the best-characterized aminoglycoside-modifying enzyme is aminoglycoside adenylyltransferase 4' IA (ANT(4')IA). This enzyme has been solved by X-ray crystallography.[94] The enzyme is able to attach an adenyl moiety to the 4' hydroxyl group of many aminoglycosides, including kamamycin and gentamicin.
+
+Glycopeptide resistance is mediated by acquisition of the vanA gene, which originates from the Tn1546 transposon found in a plasmid in enterococci and codes for an enzyme that produces an alternative peptidoglycan to which vancomycin will not bind.[95]
+
+Today, S. aureus has become resistant to many commonly used antibiotics. In the UK, only 2% of all S. aureus isolates are sensitive to penicillin, with a similar picture in the rest of the world. The β-lactamase-resistant penicillins (methicillin, oxacillin, cloxacillin, and flucloxacillin) were developed to treat penicillin-resistant S. aureus, and are still used as first-line treatment. Methicillin was the first antibiotic in this class to be used (it was introduced in 1959), but, only two years later, the first case of methicillin-resistant Staphylococcus aureus (MRSA) was reported in England.[96]
+
+Despite this, MRSA generally remained an uncommon finding, even in hospital settings, until the 1990s, when the MRSA prevalence in hospitals exploded, and it is now endemic.[97]
+
+MRSA infections in both the hospital and community setting are commonly treated with non-β-lactam antibiotics, such as clindamycin (a lincosamine) and co-trimoxazole (also commonly known as trimethoprim/sulfamethoxazole). Resistance to these antibiotics has also led to the use of new, broad-spectrum anti-Gram-positive antibiotics, such as linezolid, because of its availability as an oral drug. First-line treatment for serious invasive infections due to MRSA is currently glycopeptide antibiotics (vancomycin and teicoplanin). A number of problems with these antibiotics occur, such as the need for intravenous administration (no oral preparation is available), toxicity, and the need to monitor drug levels regularly by blood tests. Also, glycopeptide antibiotics do not penetrate very well into infected tissues (this is a particular concern with infections of the brain and meninges and in endocarditis). Glycopeptides must not be used to treat methicillin-sensitive S. aureus (MSSA), as outcomes are inferior.[98]
+
+Because of the high level of resistance to penicillins and because of the potential for MRSA to develop resistance to vancomycin, the U.S. Centers for Disease Control and Prevention has published guidelines for the appropriate use of vancomycin. In situations where the incidence of MRSA infections is known to be high, the attending physician may choose to use a glycopeptide antibiotic until the identity of the infecting organism is known. After the infection is confirmed to be due to a methicillin-susceptible strain of S. aureus, treatment can be changed to flucloxacillin or even penicillin, as appropriate.
+
+Vancomycin-resistant S. aureus (VRSA) is a strain of S. aureus that has become resistant to the glycopeptides. The first case of vancomycin-intermediate S. aureus (VISA) was reported in Japan in 1996;[99] but the first case of S. aureus truly resistant to glycopeptide antibiotics was only reported in 2002.[100] Three cases of VRSA infection had been reported in the United States as of 2005.[101] At least in part the antimicrobial resistance in S. aureus can be explained by its ability to adapt. Multiple two component signal transduction pathways helps S. aureus to express genes that are required to survive under antimicrobial stress.[102]
+
+Carriage
+About 33% of the U.S. population are carriers of S. aureus and about 2% carry MRSA.[103]
+
+The carriage of S. aureus is an important source of hospital-acquired infection (also called nosocomial) and community-acquired MRSA. Although S. aureus can be present on the skin of the host, a large proportion of its carriage is through the anterior nares of the nasal passages[2] and can further be present in the ears.[104] The ability of the nasal passages to harbour S. aureus results from a combination of a weakened or defective host immunity and the bacterium's ability to evade host innate immunity.[105] Nasal carriage is also implicated in the occurrence of staph infections.[106]
+
+Infection control
+Spread of S. aureus (including MRSA) generally is through human-to-human contact, although recently some veterinarians have discovered the infection can be spread through pets,[107] with environmental contamination thought to play a relatively less important part.[108] Emphasis on basic hand washing techniques are, therefore, effective in preventing its transmission. The use of disposable aprons and gloves by staff reduces skin-to-skin contact, so further reduces the risk of transmission.
+
+Recently, myriad cases of S. aureus have been reported in hospitals across America. Transmission of the pathogen is facilitated in medical settings where healthcare worker hygiene is insufficient. S. aureus is an incredibly hardy bacterium, as was shown in a study where it survived on polyester for just under three months;[109] polyester is the main material used in hospital privacy curtains.
+
+The bacteria are transported on the hands of healthcare workers, who may pick them up from a seemingly healthy patient carrying a benign or commensal strain of S. aureus, and then pass it on to the next patient being treated. Introduction of the bacteria into the bloodstream can lead to various complications, including endocarditis, meningitis, and, if it is widespread, sepsis.
+
+Ethanol has proven to be an effective topical sanitizer against MRSA. Quaternary ammonium can be used in conjunction with ethanol to increase the duration of the sanitizing action. The prevention of nosocomial infections involves routine and terminal cleaning. Nonflammable alcohol vapor in CO
+2 NAV-CO2 systems have an advantage, as they do not attack metals or plastics used in medical environments, and do not contribute to antibacterial resistance.
+
+An important and previously unrecognized means of community-associated MRSA colonization and transmission is during sexual contact.[110]
+
+S. aureus is killed in one minute at 78 °C and in ten minutes at 64 °C but is resistant to freezing.[111][112]
+
+Certain strains of S. aureus have been described as being resistant to chlorine disinfection[113][114]
+
+The use of mupirocin ointment can reduce the rate of infections due to nasal carriage of S. aureus.[115] There is limited evidence that nasal decomination of S. aureus carriers using antibiotics or antiseptics can reduce the rates of surgical site infections.[116]
+
+Top common bacterium in each industry
+Catering industry	Vibrio parahaemolyticus, S. aureus, Bacillus cereus
+Medical industry	Escherichia coli, S. aureus, Pseudomonas aeruginosa[117]
+Research
+As of 2015, no approved vaccine exists against S. aureus. Early clinical trials have been conducted for several vaccines candidates such as Nabi's StaphVax and PentaStaph, Intercell's / Merck's V710, VRi's SA75, and others.[118]
+
+While some of these vaccines candidates have shown immune responses, other aggravated an infection by S. aureus. To date, none of these candidates provides protection against a S. aureus infection. The development of Nabi's StaphVax was stopped in 2005 after phase III trials failed.[119] Intercell's first V710 vaccine variant was terminated during phase II/III after higher mortality and morbidity were observed among patients who developed S. aureus infection.[120]
+
+Nabi's enhanced S. aureus vaccines candidate PentaStaph was sold in 2011 to GlaxoSmithKline Biologicals S.A.[121] The current status of PentaStaph is unclear. A WHO document indicates that PentaStaph failed in the phase III trial stage.[122]
+
+In 2010, GlaxoSmithKline started a phase 1 blind study to evaluate its GSK2392103A vaccine.[123] As of 2016, this vaccine is no longer under active development.[124]
+
+Pfizer's S. aureus four-antigen vaccine SA4Ag was granted fast track designation by the U.S. Food and Drug Administration in February 2014.[125] In 2015, Pfizer has commenced a phase 2b trial regarding the SA4Ag vaccine.[126] Phase 1 results published in February 2017 showed a very robust and secure immunogenicity of SA4Ag.[127]
+
+I

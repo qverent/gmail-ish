@@ -1,0 +1,126 @@
+Staphylococcus aureus is a Gram-positive, round-shaped bacterium that is a member of the Firmicutes, and it is a usual member of the microbiota of the body, frequently found in the upper respiratory tract and on the skin. It is often positive for catalase and nitrate reduction and is a facultative anaerobe that can grow without the need for oxygen.[1] Although S. aureus usually acts as a commensal of the human microbiota it can also become an opportunistic pathogen, being a common cause of skin infections including abscesses, respiratory infections such as sinusitis, and food poisoning. Pathogenic strains often promote infections by producing virulence factors such as potent protein toxins, and the expression of a cell-surface protein that binds and inactivates antibodies. The emergence of antibiotic-resistant strains of S. aureus such as methicillin-resistant S. aureus (MRSA) is a worldwide problem in clinical medicine. Despite much research and development, no vaccine for S. aureus has been approved.
+
+An estimated 20% to 30% of the human population are long-term carriers S. aureus[2][3] which can be found as part of the normal skin flora, in the nostrils,[2][4] and as a normal inhabitant of the lower reproductive tract of women.[5][6] S. aureus can cause a range of illnesses, from minor skin infections, such as pimples,[7] impetigo, boils, cellulitis, folliculitis, carbuncles, scalded skin syndrome, and abscesses, to life-threatening diseases such as pneumonia, meningitis, osteomyelitis, endocarditis, toxic shock syndrome, bacteremia, and sepsis. It is still one of the five most common causes of hospital-acquired infections and is often the cause of wound infections following surgery. Each year, around 500,000 patients in hospitals of the United States contract a staphylococcal infection, chiefly by S. aureus.[8] Up to 50,000 deaths each year in the USA are linked with S. aureus infections.[9]
+
+
+Contents
+1	History
+1.1	Discovery
+1.2	Evolution
+2	Microbiology
+3	Role in health
+4	Role in disease
+4.1	Skin infections
+4.2	Food poisoning
+4.3	Bone and joint infections
+4.4	Bacteremia
+4.5	Medical implant infections
+4.6	Animal infections
+5	Virulence factors
+5.1	Enzymes
+5.2	Toxins
+5.3	Small RNA
+5.4	Strategies for post-transcriptional regulation by 3'untranslated region
+5.5	Biofilm
+5.6	Other immunoevasive strategies
+6	Classical diagnosis
+6.1	Rapid diagnosis and typing
+7	Treatment
+7.1	Antibiotic resistance
+8	Carriage
+9	Infection control
+10	Research
+11	References
+12	Further reading
+13	External links
+History
+Discovery
+In 1881, Sir Alexander Ogston, a Scottish surgeon, discovered that Staphylococcus can cause wound infections after noticing groups of bacteria in pus from a surgical abscess during a procedure he was performing. He named it Staphylococcus after its clustered appearance evident under a microscope. Then, in 1884, German scientist Friedrich Julius Rosenbach identified Staphylococcus aureus, discriminating and separating it from Staphylococcus albus, a related bacterium. In the early 1930s, doctors began to use a more streamlined test to detect the presence of an S. aureus infection by the means of coagulase testing, which enables detection of an enzyme produced by the bacterium. Prior to the 1940s, S. aureus infections were fatal in the majority of patients. However, doctors discovered that the use of penicillin could cure S. aureus infections. Unfortunately, by the end of the 1940s, penicillin resistance became widespread amongst this bacterium population and outbreaks of the resistant strain began to occur.[10]
+
+Evolution
+Staphylococcus aureus can be sorted into ten dominant human lineages. There are numerous minor lineages as well, but these are not seen in the population as often. Genomes of bacteria within the same lineage are mostly conserved, with the exception of mobile genetic elements. Mobile genetic elements that are common in S. aureus include bacteriophages, pathogenicity islands, plasmids, transposons, and staphylococcal cassette chromosomes. These elements have enabled S. aureus to continually evolve and gain new traits. There is a great deal of genetic variation within the S. aureus species. A study by Fitzgerald et al. (2001) revealed that approximately 22% of the S. aureus genome is non-coding and thus can differ from bacterium to bacterium. An example of this difference is seen in the species' virulence. Only a few strains of S. aureus are associated with infections in humans. This demonstrates that there is a large range of infectious ability within the species.[11]
+
+It has been proposed that one possible reason for the great deal of heterogeneity within the species could be due to its reliance on heterogeneous infections. This occurs when multiple different types of S. aureus cause an infection within a host. The different strains can secrete different enzymes or bring different antibiotic resistances to the group, increasing its pathogenic ability.[12] Thus, there is a need for a large number of mutations and acquisitions of mobile genetic elements.
+
+Another notable evolutionary process within the S. aureus species is its co-evolution with its human hosts. Over time, this parasitic relationship has led to the bacterium's ability to be carried in the nasopharynx of humans without causing symptoms or infection. This allows it to be passed throughout the human population, increasing its fitness as a species.[13] However, only approximately 50% of the human population are carriers of S. aureus, with 20% as continuous carriers and 30% as intermittent. This leads scientists to believe that there are many factors that determine whether S. aureus is carried asymptomatically in humans, including factors that are specific to an individual person. According to a 1995 study by Hofman et al., these factors may include age, sex, diabetes, and smoking. They also determined some genetic variations in humans that lead to an increased ability for S. aureus to colonize, notably a polymorphism in the glucocorticoid receptor gene that results in larger corticosteroid production. In conclusion, there is evidence that any strain of this bacterium can become invasive, as this is highly dependent upon human factors.[14]
+
+Though S. aureus has quick reproductive and micro-evolutionary rates, there are multiple barriers that prevent evolution with the species. One such barrier is AGR, which is a global accessory gene regulator within the bacteria. This such regulator has been linked to the virulence level of the bacteria. Loss of function mutations within this gene have been found to increase the fitness of the bacterium containing it. Thus, S. aureus must make a trade-off to increase their success as a species, exchanging reduced virulence for increased drug resistance. Another barrier to evolution is the Sau1 Type I restriction modification (RM) system. This system exists to protect the bacterium from foreign DNA by digesting it. Exchange of DNA between the same lineage is not blocked, since they have the same enzymes and the RM system does not recognize the new DNA as foreign, but transfer between lineages is blocked.[12]
+
+Microbiology
+
+Gram stain of S. saprophyticus cells, which typically occur in clusters: The cell wall readily absorbs the crystal violet stain.
+
+Key characteristics of Staphylococcus aureus
+S. aureus (/ˌstæfɪləˈkɒkəs ˈɔːriəs, -loʊ-/,[15][16] Greek σταφυλόκοκκος, "grape-cluster berry", Latin aureus, "golden") is a facultative anaerobic, Gram-positive coccal (round) bacterium also known as "golden staph" and "oro staphira". S. aureus is nonmotile and does not form spores.[17] In medical literature, the bacterium is often referred to as S. aureus, Staph aureus or Staph a..[18] S. aureus appears as staphylococci (grape-like clusters) when viewed through a microscope, and has large, round, golden-yellow colonies, often with hemolysis, when grown on blood agar plates.[19] S. aureus reproduces asexually by binary fission. Complete separation of the daughter cells is mediated by S. aureus autolysin, and in its absence or targeted inhibition, the daughter cells remain attached to one another and appear as clusters.[20]
+
+S. aureus is catalase-positive (meaning it can produce the enzyme catalase). Catalase converts hydrogen peroxide (H
+2O
+2) to water and oxygen. Catalase-activity tests are sometimes used to distinguish staphylococci from enterococci and streptococci. Previously, S. aureus was differentiated from other staphylococci by the coagulase test. However, not all S. aureus strains are coagulase-positive[19][21] and incorrect species identification can impact effective treatment and control measures.[22]
+
+Staphylococcus is different from the similarly named and medically relevant genus Streptococcus.
+
+Natural genetic transformation is a reproductive process involving DNA transfer from one bacterium to another through the intervening medium, and the integration of the donor sequence into the recipient genome by homologous recombination. S. aureus was found to be capable of natural genetic transformation, but only at low frequency under the experimental conditions employed.[23] Further studies suggested that the development of competence for natural genetic transformation may be substantially higher under appropriate conditions, yet to be discovered.[24]
+
+Role in health
+In humans, S. aureus can be present in the upper respiratory tract, gut mucosa, and skin as a member of the normal microbiota.[25][26][27] However, because S. aureus can cause disease under certain host and environmental conditions, it is characterized as a "pathobiont".[25]
+
+Role in disease
+Further information: Coagulase-positive staphylococcal infection
+3D Medical Animation still shot of Osteomyelitis bone
+3D Medical Animation still shot of Osteomyelitis bone
+
+This 2005 scanning electron micrograph (SEM) depicts numerous clumps of methicillin-resistant S. aureus (MRSA) bacteria.
+While S. aureus usually acts as a commensal bacterium, asymptomatically colonizing about 30% of the human population, it can sometimes cause disease.[3] In particular, S. aureus is one of the most common causes of bacteremia and infective endocarditis. Additionally, it can cause various skin and soft-tissue infections,[3] particularly when skin or mucosal barriers have been breached.
+
+S. aureus infections can spread through contact with pus from an infected wound, skin-to-skin contact with an infected person, and contact with objects used by an infected person such as towels, sheets, clothing, or athletic equipment. Joint replacements put a person at particular risk of septic arthritis, staphylococcal endocarditis (infection of the heart valves), and pneumonia.[28]
+
+Preventive measures include washing hands often with soap and making sure to bathe or shower daily.
+
+S. aureus is a significant cause of chronic biofilm infections on medical implants, and the repressor of toxins is part of the infection pathway.[29]
+
+S. aureus can lay dormant in the body for years undetected. Once symptoms begin to show, the host is contagious for another two weeks, and the overall illness lasts a few weeks. If untreated, though, the disease can be deadly.[30] Deeply penetrating S. aureus infections can be severe.
+
+Skin infections
+Skin infections are the most common form of S. aureus infection. This can manifest in various ways, including small benign boils, folliculitis, impetigo, cellulitis, and more severe, invasive soft-tissue infections.[7][3]
+
+S. aureus is extremely prevalent in persons with atopic dermatitis, more commonly known as eczema. It is mostly found in fertile, active places, including the armpits, hair, and scalp. Large pimples that appear in those areas may exacerbate the infection if lacerated. This can lead to staphylococcal scalded skin syndrome, a severe form of which can be seen in newborns.[31]
+
+The presence of S. aureus in persons with atopic dermatitis is not an indication to treat with oral antibiotics, as evidence has not shown this to give benefit to the patient.[32][33] However, topical antibiotics combined with corticosteroids have been found to improve the condition.[34] Colonization of S. aureus drives inflammation of atopic dermatitis;[35] S. aureus is believed to exploit defects in the skin barrier of persons with atopic dermatitis, triggering cytokine expression and therefore exacerbating symptoms.[36]
+
+Food poisoning
+S. aureus is also responsible for food poisoning. It is capable of generating toxins that produce food poisoning in the human body.[37] Its incubation period lasts one to six hours,[38] with the illness itself lasting from 30 minutes to 3 days.[39] Preventive measures one can take to help prevent the spread of the disease include washing hands thoroughly with soap and water before preparing food. Stay away from any food if ill, and wear gloves if any open wounds occur on hands or wrists while preparing food. If storing food for longer than 2 hours, keep the food below 5 or above 63 °C.[40]
+
+Bone and joint infections
+S. aureus is the bacterium commonly responsible for all major bone and joint infections. This manifests in one of three forms: osteomyelitis, septic arthritis, and infection from a replacement joint surgery.[41][3]
+
+Bacteremia
+S. aureus is a leading cause of bloodstream infections throughout much of the industrialized world.[41] Infection is generally associated with breaks in the skin or mucosal membranes due to surgery, injury, or use of intravascular devices such as catheters, hemodialysis machines, or injected drugs.[3][41] Once the bacteria have entered the bloodstream, they can infect various organs, causing infective endocarditis, septic arthritis, and osteomyelitis.[41] This disease is particularly prevalent and severe in the very young and very old.[3]
+
+Without antibiotic treatment, S. aureus bacteremia has a case fatality rate around 80%.[3] With antibiotic treatment, case fatality rates range from 15% to 50% depending on the age and health of the patient, as well as the antibiotic resistance of the S. aureus strain.[3]
+
+Medical implant infections
+S. aureus is often found in biofilms formed on medical devices implanted in the body or on human tissue. It is commonly found with another pathogen, Candida albicans, forming multispecies biofilms. The latter is suspected to help S. aureus penetrate human tissue.[9] A higher mortality is linked with multispecies biofilms.[42]
+
+S. aureus biofilm is the predominant cause of orthopedic implant-related infections, but is also found on cardiac implants, vascular grafts, various catheters, and cosmetic surgical implants.[43][44] After implantation, the surface of these devices becomes coated with host proteins, which provide a rich surface for bacterial attachment and biofilm formation. Once the device becomes infected, it must by completely removed, since S. aureus biofilm cannot be destroyed by antibiotic treatments.[44]
+
+Current therapy for S. aureus biofilm-mediated infections involves surgical removal of the infected device followed by antibiotic treatment. Conventional antibiotic treatment alone is not effective in eradicating such infections.[43] An alternative to postsurgical antibiotic treatment is using antibiotic-loaded, dissolvable calcium sulfate beads, which are implanted with the medical device. These beads can release high doses of antibiotics at the desired site to prevent the initial infection.[44]
+
+Novel treatments for S. aureus biofilm involving nano silver particles, bacteriophages, and plant-derived antibiotic agents are being studied. These agents have shown inhibitory effects against S. aureus embedded in biofilms.[45] A class of enzymes have been found to have biofilm matrix-degrading ability, thus may be used as biofilm dispersal agents in combination with antibiotics.[46]
+
+Animal infections
+S. aureus can survive on dogs,[47] cats,[48] and horses,[49] and can cause bumblefoot in chickens.[50] Some believe health-care workers' dogs should be considered a significant source of antibiotic-resistant S. aureus, especially in times of outbreak.[47] In a 2008 study by Boost, O’Donoghue, and James, it was found that just about 90% of S. aureus colonized within pet dogs presented as resistant to at least one antibiotic. The nasal region has been implicated as the most important site of transfer between dogs and humans.[51]
+
+S. aureus is one of the causal agents of mastitis in dairy cows. Its large polysaccharide capsule protects the organism from recognition by the cow's immune defenses.[52]
+
+Virulence factors
+Main article: Virulence factor
+Enzymes
+S. aureus produces various enzymes such as coagulase (bound and free coagulases) which clots plasma and coats the bacterial cell, probably to prevent phagocytosis. Hyaluronidase (also known as spreading factor) breaks down hyaluronic acid and helps in spreading it. S. aureus also produces deoxyribonuclease, which breaks down the DNA, lipase to digest lipids, staphylokinase to dissolve fibrin and aid in spread, and beta-lactamase for drug resistance.[53]
+
+Toxins
+Depending on the strain, S. aureus is capable of secreting several exotoxins, which can be categorized into three groups. Many of these toxins are associated with specific diseases.[54]
+
+Superantigens
+Antigens known as superantigens can induce toxic shock syndrome (TSS). This group includes the toxins TSST-1, and enterotoxin type B, which causes TSS associated with tampon use. Toxic shock syndrome is characterized by fever, erythematous rash, low blood pressure, shock, multiple organ failure, and skin peeling. Lack of antibody to TSST-1 plays a part in the pathogenesis of TSS. Other strains of S. aureus can produce an enterotoxin that is the causative agent of a type of gastroenteritis. This form of gastroenteritis is self-limiting, characterized by vomiting and diarrhea 1–6 hours after ingestion of the toxin, with recovery in 8 to 24 hours. Symptoms include nausea, vomiting, diarrhea, and major abdominal pain.[55][56]
+
+n 2015, Novartis Vaccines and Diagnostics, a former division of Novartis and now part of GlaxoSmithKline, published promising pre-clinical results of their four-component Staphylococcus aureus vaccine, 4C-staph.[128]

@@ -1,0 +1,104 @@
+Recovery
+Many cases of poliomyelitis result in only temporary paralysis.[14] Nerve impulses return to the formerly paralyzed muscle within a month, and recovery is usually complete in six to eight months.[63] The neurophysiological processes involved in recovery following acute paralytic poliomyelitis are quite effective; muscles are able to retain normal strength even if half the original motor neurons have been lost.[67] Paralysis remaining after one year is likely to be permanent, although modest recoveries of muscle strength are possible 12 to 18 months after infection.[63]
+
+One mechanism involved in recovery is nerve terminal sprouting, in which remaining brainstem and spinal cord motor neurons develop new branches, or axonal sprouts.[68] These sprouts can reinnervate orphaned muscle fibers that have been denervated by acute polio infection,[69] restoring the fibers' capacity to contract and improving strength.[70] Terminal sprouting may generate a few significantly enlarged motor neurons doing work previously performed by as many as four or five units[37] a single motor neuron that once controlled 200 muscle cells might control 800 to 1000 cells. Other mechanisms that occur during the rehabilitation phase, and contribute to muscle strength restoration, include myofiber hypertrophy – enlargement of muscle fibers through exercise and activity – and transformation of type II muscle fibers to type I muscle fibers.[69][71]
+
+In addition to these physiological processes, the body possesses a number of compensatory mechanisms to maintain function in the presence of residual paralysis. These include the use of weaker muscles at a higher than usual intensity relative to the muscle's maximal capacity, enhancing athletic development of previously little-used muscles, and using ligaments for stability, which enables greater mobility.[71]
+
+Complications
+Residual complications of paralytic polio often occur following the initial recovery process.[13] Muscle paresis and paralysis can sometimes result in skeletal deformities, tightening of the joints, and movement disability. Once the muscles in the limb become flaccid, they may interfere with the function of other muscles. A typical manifestation of this problem is equinus foot (similar to club foot). This deformity develops when the muscles that pull the toes downward are working, but those that pull it upward are not, and the foot naturally tends to drop toward the ground. If the problem is left untreated, the Achilles tendons at the back of the foot retract and the foot cannot take on a normal position. Polio victims that develop equinus foot cannot walk properly because they cannot put their heel on the ground. A similar situation can develop if the arms become paralyzed.[72] In some cases the growth of an affected leg is slowed by polio, while the other leg continues to grow normally. The result is that one leg is shorter than the other and the person limps and leans to one side, in turn leading to deformities of the spine (such as scoliosis).[72] Osteoporosis and increased likelihood of bone fractures may occur. An intervention to prevent or lessen length disparity can be to perform an epiphysiodesis on the distal femoral and proximal tibialfibular condyles, so that limb's growth is artificially stunted, and by the time of epiphyseal (growth) plate closure, the legs are more equal in length. Alternatively, a person can be fitted with custom made footwear which corrects the difference in leg lengths. Other surgery to re-balance muscular agonistantagonist imbalances may also be helpful. Extended use of braces or wheelchairs may cause compression neuropathy, as well as a loss of proper function of the veins in the legs, due to pooling of blood in paralyzed lower limbs.[43][73] Complications from prolonged immobility involving the lungs, kidneys and heart include pulmonary edema, aspiration pneumonia, urinary tract infections, kidney stones, paralytic ileus, myocarditis and cor pulmonale.[43][73]
+
+Post-polio syndrome
+Main article Post-polio syndrome
+Between 25 percent and 50 percent of individuals who have recovered from paralytic polio in childhood can develop additional symptoms decades after recovering from the acute infection,[74] notably new muscle weakness and extreme fatigue. This condition is known as post-polio syndrome (PPS) or post-polio sequelae.[75] The symptoms of PPS are thought to involve a failure of the oversized motor units created during the recovery phase of the paralytic disease.[76][77] Contributing factors that increase the risk of PPS include aging with loss of neuron units, the presence of a permanent residual impairment after recovery from the acute illness, and both overuse and disuse of neurons. PPS is a slow, progressive disease, and there is no specific treatment for it.[75] Post-polio syndrome is not an infectious process, and persons experiencing the syndrome do not shed poliovirus.[1]
+
+Epidemiology
+See also Poliomyelitis eradication
+Reported polio cases in 2019'[78][79]
+Polio worldwide 2019.svg
+Country	Wild
+cases	Circulating
+vaccine-
+derived
+cases	Transmission
+status	Type
+ Pakistan	146	22	endemic	WPV1
+cVDPV2
+ Afghanistan	29	0	endemic	WPV1
+ Angola	0	129	cVDPV only	cVDPV2
+ DRC	0	86	cVDPV only	cVDPV2
+ CAR	0	19	cVDPV only	cVDPV2
+ Ghana	0	18	cVDPV only	cVDPV2
+ Nigeria	0	18	cVDPV only	cVDPV2
+ Philippines	0	15	cVDPV only	cVDPV1
+cVDPV2
+ Ethiopia	0	12	cVDPV only	cVDPV2
+ Chad	0	9	cVDPV only	cVDPV2
+ Benin	0	8	cVDPV only	cVDPV2
+ Togo	0	8	cVDPV only	cVDPV2
+ Myanmar	0	6	cVDPV only	cVDPV1
+ Somalia	0	3	cVDPV only	cVDPV2
+ Malaysia	0	3	cVDPV only	cVDPV1
+ Zambia	0	2	cVDPV only	cVDPV2
+ Burkina Faso	0	1	cVDPV only	cVDPV2
+ China	0	1	cVDPV only	cVDPV2
+ Niger	0	1	cVDPV only	cVDPV2
+ Yemen	0	3	cVDPV only	cVDPV1
+Total	175	365		
+
+The decade of the last recorded case of paralytic polio.[80]
+Following the widespread use of poliovirus vaccine in the mid-1950s, new cases of poliomyelitis declined dramatically in many industrialized countries. A global effort to eradicate polio began in 1988, led by the World Health Organization, UNICEF, and The Rotary Foundation.[81] These efforts have reduced the number of cases diagnosed each year by 99.9 percent; from an estimated 350,000 cases in 1988 to a low of 483 cases in 2001, after which it remained at a level of about 1,000 – 2000 cases per year for a number of years.[82][83]
+
+In April 2012, the World Health Assembly declared the completion of polio eradication a programmatic emergency for global public health.[84]
+
+In 2015, polio was believed to remain naturally spreading in only two countries, Pakistan and Afghanistan,[85][86][87][88] although it continued to cause outbreaks in other nearby countries due to hidden or reestablished transmission.[89]
+
+In 2015, cases decreased to 98 and further decreased in 2016 to 37 wild cases and 5 circulating vaccine-derived cases, but increased in 2019 to 175 wild cases and 365 circulating vaccine-derived cases.[79][90][91] Polio is one of only two diseases currently the subject of a global eradication program, the other being Guinea worm disease.[92] So far, the only diseases completely eradicated by humankind are smallpox, declared so in 1980,[93][94] and rinderpest, likewise in 2011.[95]
+
+A concern is the presence of circulating vaccine-derived polioviruses. The oral polio vaccine is not perfect while the genetic characteristics are carefully balanced to maximize efficacy and minimize virulence, it is possible for the polio virus in the oral vaccine to mutate. As a result, persons given the oral polio vaccine can acquire acute or chronic infections; or can transmit (circulate) mutated virus to other people. Circulating vaccine-derived poliovirus cases have exceeded wild-type cases, making it desirable to discontinue use of the oral polio vaccine as soon as safely possible.[96]
+
+Afghanistan and Pakistan
+See also Polio in Pakistan
+The last remaining region with wild polio cases are the South Asian countries Afghanistan and Pakistan. Both major sides of the Afghan civil war support polio vaccination,[97] but after declining rapidly, polio rates are increasing in Afghanistan, with 19 cases in 2015,[86][98] 13 in 2016,[99] 14 in 2017,[79] 21 in 2018,[78] and 29 in 2019[78] out of a population of about 35 million.
+
+In Pakistan, there were 53 cases in 2015 (out of a population of about 200 million) – the highest number for any country,[86][98] 20 in 2016,[99] 8 in 2017[79] 12 in 2018, and 146 in 2019.[78][100] Vaccination in Pakistan is hindered by conflict and organizational problems. The militant Pakistani Taliban claims vaccination is a Western plot to sterilise local children.[101] 66 vaccinators were killed in 2013 and 2014.[102][103] Cases dropped by 97 percent from 2014 to 2018;[104] reasons include 440 million dirham support from the United Arab Emirates to vaccinate more than ten million children,[103][105] changes in the military situation, and arrests of some of those who attacked polio workers.[101][106]
+
+Americas
+The Americas were declared polio-free in 1994.[107] The last known case was a boy in Peru in 1991.[108]
+
+Western Pacific
+In 2000 polio was declared to have been officially eliminated in 37 Western Pacific countries, including China and Australia.[109][110]
+
+Despite eradication ten years before, an outbreak was confirmed in China in September 2011 involving a strain common in Pakistan.[111]
+
+Europe
+Europe was declared polio-free in 2002.[112] On 1 September 2015, WHO confirmed two cases of circulating vaccine-derived poliovirus type 1 in Ukraine.[113]
+
+Southeast Asia
+The last case of polio in the region was in India (part of the WHO's South-East Asia Region) in January 2011.[114] Since January 2011, there have been no reported cases of the wild polio infections in India, and in February 2012 the country was taken off the WHO list of polio endemic countries. It was reported that if there are no cases of wild polio in the country for two more years, it would be declared as a polio-free country.[115][116]
+
+On 27 March 2014 the WHO announced the eradication of poliomyelitis in the South-East Asia Region, which includes eleven countries Bangladesh, Bhutan, North Korea, India, Indonesia, Maldives, Myanmar, Nepal, Sri Lanka, Thailand and Timor-Leste.[85] With the addition of this region, 80 per cent of the world population was considered to be living in polio-free regions.[85]
+
+However, in September 2019, the Department of Health of the Philippines declared a polio outbreak in the country after a 3-year-old girl was found with the disease on the 14th.[117][118]
+
+In December 2019, acute poliomyelitis was confirmed in a 3-month-old infant in Tuaran, a town in Sabah state, Borneo, Malaysia.[119][120] It was the first confirmed case in Malaysia since 1992, and Malaysia had been declared polio-free in 2000. The child reportedly had a fever and muscle weakness, and although in stable condition, required assistance to breathe. Testing of the virus indicated that it was related to the strain that had appeared in the Philippines. Local officials said the strain originated from a weakened virus used in an oral vaccine that was then excreted in feces and spread into the unvaccinated population through unsanitary conditions.[119] It was reported that 23 of 199 children in the local community had not received the polio vaccine.[119]
+
+Middle East
+In Syria difficulties in executing immunization programs in the ongoing civil war led to a return of polio, probably in 2012,[121] acknowledged by the WHO in 2013.[122][123] 15 cases were confirmed among children in Syria between October and November 2013 in Deir Ezzor. Later, two more cases, one each in rural Damascus and Aleppo, were identified. It was the first outbreak in Syria since 1999. Doctors and international public health agencies report more than 90 cases of polio in Syria, with fears of contagion in rebel areas from lack of sanitation and safe-water services.[124] In May 2014, the World Health Organization declared polio's renewed spread a world health emergency.[125][126]
+
+A vaccination campaign in Syria operated literally under fire and led to the deaths of several vaccinators,[127] but returned vaccination coverage to pre-war levels.[128]
+
+Another epidemic of polio was confirmed in 2017 in eastern Syria, probably resulting from a mutated form of the virus spreading through contaminated water.[129]
+
+Africa
+
+Polio txertaketa Egipton.
+In 2003 in northern Nigeria – a country which at that time was considered provisionally polio free – a fatwa was issued declaring that the polio vaccine was designed to render children sterile.[130] Subsequently, polio reappeared in Nigeria and spread from there to several other countries. In 2013, nine health workers administering polio vaccine were targeted and killed by gunmen on motorcycles in Kano, but this was the only attack.[131][132] Local traditional and religious leaders and polio survivors worked to revive the campaign,[98] and Nigeria was removed from the polio-endemic list in September 2015 after more than a year without any cases,[133] only to be restored to the list in 2016 when two cases were detected.[134]
+
+In 2013 the Center for Disease Control received reports of 183 cases of polio in Somalia, 14 in Kenya and 8 cases in the Somali Region of Ethiopia,[135] but Africa had no confirmed cases of wild poliovirus (WPV) since 2016.[136] Cases of circulating vaccine-derived poliovirus type 2 continue to appear in several countries.[137][138]
+
+On 25 August 2020, the Africa Regional Certification Commission declared Africa free from wild polio.[139]
+
+History
+See also History of poliomyelitis, Timeline of poliomyelitis, and List of poliomyelitis survivors
+

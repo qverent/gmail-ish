@@ -1,0 +1,189 @@
+Typhoid fever, also known simply as typhoid, is a bacterial infection due to a specific type of Salmonella that causes symptoms.[3] Symptoms may vary from mild to severe, and usually begin 6 to 30 days after exposure.[1][2] Often there is a gradual onset of a high fever over several days.[1] This is commonly accompanied by weakness, abdominal pain, constipation, headaches, and mild vomiting.[2][6] Some people develop a skin rash with rose colored spots.[2] In severe cases, people may experience confusion.[6] Without treatment, symptoms may last weeks or months.[2] Diarrhea is uncommon.[6] Other people may carry the bacterium without being affected, but they are still able to spread the disease to others.[4] Typhoid fever is a type of enteric fever, along with paratyphoid fever.[3]
+
+The cause is the bacterium salmonella enterica subsp. enterica serovar Typhi growing in the intestines and blood.[2][6] Typhoid is spread by eating or drinking food or water contaminated with the feces of an infected person.[4] Risk factors include poor sanitation and poor hygiene.[3] Those who travel in the developing world are also at risk.[6] Only humans can be infected.[4] Symptoms are similar to those of many other infectious diseases.[6] Diagnosis is by either culturing the bacteria or detecting their DNA in the blood, stool, or bone marrow.[2][3][5] Culturing the bacterium can be difficult.[10] Bone-marrow testing is the most accurate.[5]
+
+A typhoid vaccine can prevent about 40 to 90% of cases during the first two years.[7] The vaccine may have some effect for up to seven years.[3] For those at high risk or people traveling to areas where the disease is common, vaccination is recommended.[4] Other efforts to prevent the disease include providing clean drinking water, good sanitation, and handwashing.[2][4] Until an individual's infection is confirmed as cleared, the individual should not prepare food for others.[2] The disease is treated with antibiotics such as azithromycin, fluoroquinolones, or third-generation cephalosporins.[3] Resistance to these antibiotics has been developing, which has made treatment of the disease more difficult.[3][11]
+
+In 2015, 12.5 million new cases worldwide were reported.[8] The disease is most common in India.[3] Children are most commonly affected.[3][4] Rates of disease decreased in the developed world in the 1940s as a result of improved sanitation and use of antibiotics to treat the disease.[4] Each year in the United States, about 400 cases are reported and the disease occurs in an estimated 6,000 people.[6][12] In 2015, it resulted in about 149,000 deaths worldwide – down from 181,000 in 1990 (about 0.3% of the global total).[9][13] The risk of death may be as high as 20% without treatment.[4] With treatment, it is between 1 and 4%.[3][4] Typhus is a different disease.[14] However, the name typhoid means "resembling typhus" due to the similarity in symptoms.[15]
+
+File:En.Wikipedia-VideoWiki-Typhoid fever.webm
+Video summary (script)
+
+Contents
+1	Signs and symptoms
+2	Causes
+2.1	Bacteria
+2.2	Transmission
+3	Diagnosis
+3.1	Widal test
+3.2	Rapid diagnostic tests
+3.2.1	Typhidot
+3.2.2	Tubex test
+4	Prevention
+4.1	Vaccination
+5	Treatment
+5.1	Oral rehydration therapy
+5.2	Antibiotics
+5.3	Surgery
+5.4	Resistance
+6	Epidemiology
+7	History
+7.1	Spread
+7.2	Organism involved
+7.3	Vaccine
+7.4	Chlorination of water
+7.5	20th century
+8	Terminology
+9	Notable cases
+10	See also
+11	References
+12	Further reading
+13	External links
+Signs and symptoms
+
+Rose spots on chest of a person with typhoid fever
+Classically, the progression of untreated typhoid fever is divided into four distinct stages, each lasting about a week. Over the course of these stages, the patient becomes exhausted and emaciated.[16]
+
+In the first week, the body temperature rises slowly, and fever fluctuations are seen with relative bradycardia (Faget sign), malaise, headache, and cough. A bloody nose (epistaxis) is seen in a quarter of cases, and abdominal pain is also possible. A decrease in the number of circulating white blood cells (leukopenia) occurs with eosinopenia and relative lymphocytosis; blood cultures are positive for Salmonella enterica subsp. enterica serovar Typhi. The Widal test is usually negative in the first week.[17]
+In the second week, the person is often too tired to get up, with high fever in plateau around 40 °C (104 °F) and bradycardia (sphygmothermic dissociation or Faget sign), classically with a dicrotic pulse wave. Delirium can occur, where the patient is often calm, but sometimes becomes agitated. This delirium has led to typhoid receiving the nickname "nervous fever". Rose spots appear on the lower chest and abdomen in around a third of patients. Rhonchi (rattling breathing sounds) are heard in the base of the lungs. The abdomen is distended and painful in the right lower quadrant, where a rumbling sound can be heard. Diarrhea can occur in this stage, but constipation is also common. The spleen and liver are enlarged (hepatosplenomegaly) and tender, and liver transaminases are elevated. The Widal test is strongly positive, with antiO and antiH antibodies. Blood cultures are sometimes still positive at this stage.
+In the third week of typhoid fever, a number of complications can occur:
+Intestinal haemorrhage due to bleeding in congested Peyer's patches occurs; this can be very serious, but is usually not fatal.
+Intestinal perforation in the distal ileum is a very serious complication and is frequently fatal. It may occur without alarming symptoms until septicaemia or diffuse peritonitis sets in.
+Encephalitis
+Respiratory diseases such as pneumonia and acute bronchitis
+Neuropsychiatric symptoms (described as "muttering delirium" or "coma vigil"), with picking at bedclothes or imaginary objects
+Metastatic abscesses, cholecystitis, endocarditis, and osteitis
+The fever is still very high and oscillates very little over 24 hours. Dehydration ensues, and the patient is delirious (typhoid state). One-third of affected individuals develop a macular rash on the trunk.
+Low platelet count (thrombocytopenia) can sometimes be seen.[18]
+Causes
+
+A 1939 conceptual illustration showing various ways that typhoid bacteria can contaminate a water well (center)
+Bacteria
+The Gram-negative bacterium that causes typhoid fever is Salmonella enterica subsp. enterica serovar Typhi. Based on MLST subtyping scheme, the two main sequence types of the S. Typhi are ST1 and ST2, which are currently widespread globally.[19] The global phylogeographical analysis showed dominance of a haplotype 58 (H58) which probably originated in India during late 1980s and now spreading through the world carrying multidrug resistance.[20] A recently proposed and more detailed genotyping scheme has been reported in 2016 and is being used widely since. This scheme re-classified the nomemclature of H58 to genotype 4.3.1.[21]
+
+Transmission
+Unlike other strains of Salmonella, no animal carriers of typhoid are known.[22] Humans are the only known carriers of the bacteria.[22] S. enterica subsp. enterica serovar Typhi is spread through the fecal-oral route from individuals who are currently infected and from asymptomatic carriers of the bacteria.[22] An asymptomatic human carrier is an individual who is still excreting typhoid bacteria in their stool a year after the acute stage of the infection.[22]
+
+Diagnosis
+Diagnosis is made by any blood, bone marrow, or stool cultures and with the Widal test (demonstration of antibodies against Salmonella antigens O-somatic and H-flagellar). In epidemics and less wealthy countries, after excluding malaria, dysentery, or pneumonia, a therapeutic trial time with chloramphenicol is generally undertaken while awaiting the results of the Widal test and cultures of the blood and stool.[23]
+
+Widal test
+
+widal test card
+Widal test is used to identify specific antibodies in serum of people with typhoid by using antigen-antibody interactions.
+
+In this test, the serum is mixed with a dead bacterial suspension of salmonella having specific antigens on it. If the patient's serum is carrying antibodies against those antigens then they get attached to them forming clumping which indicated the positivity of the test. If clumping does not occur then the test is negative. The Widal test is time-consuming and prone to significant false positive results. The test may also be falsely negative in the early course of illness. However, unlike the Typhidot test, the Widal test quantifies the specimen with titres.[24]
+
+Rapid diagnostic tests
+Rapid diagnostic tests such as Tubex, Typhidot, and Test-It has shown moderate diagnostic accuracy.[25]
+
+Typhidot
+The test is based on the presence of specific IgM and IgG antibodies to a specific 50Kd OMP antigen. This test is carried out on a cellulose nitrate membrane where a specific S. typhi outer membrane protein is attached as fixed test lines. It separately identifies IgM and IgG antibodies. IgM shows recent infection whereas IgG signifies remote infection.
+
+The sample pad of this kit contains colloidal gold-anti-human IgG or gold-anti-human IgM. If the sample contains IgG and IgM antibodies against those antigens then they will react and get turned into red color. This complex will continue to move forward and the IgG and IgM antibodies will get attached to the first test line where IgG and IgM antigens are present giving a pink-purplish colored band. This complex will continue to move further and reach the control line which consists of rabbit anti-mouse antibody which bends the mouse anti-human IgG or IgM antibodies. The main purpose of the control line is to indicate a proper migration and reagent color. The typhidot test becomes positive within 2–3 days of infection.
+
+Two colored bands indicate a positive test. Single-band of control line indicates a negative test. Single-band of first fixed line or no bands at all indicates invalid tests. The most important limitation of this test is that it is not quantitative and the result is only positive or negative.[26]
+
+Tubex test
+Tubex test contains two types of particles brown magnetic particles coated with antigen and blue indicator particles coated with O9 antibody. During the test, if antibodies are present in the serum then they will get attached to the brown magnetic particles and settle down at the base and the blue indicator particles remain up in the solution giving a blue color that indicates positivity of the test.
+
+If the serum does not have an antibody in it then the blue particle gets attached to the brown particles and settled down at the bottom giving no color to the solution which means the test is negative and they do not have typhoid.[27]
+
+Prevention
+
+Doctor administering a typhoid vaccination at a school in San Augustine County, Texas, 1943
+Sanitation and hygiene are important to prevent typhoid. It can only spread in environments where human feces are able to come into contact with food or drinking water. Careful food preparation and washing of hands are crucial to prevent typhoid. Industrialization, and in particular, the invention of the automobile, contributed greatly to the elimination of typhoid fever, as it eliminated the public-health hazards associated with having horse manure in public streets, which led to large number of flies,[28] which are known as vectors of many pathogens, including Salmonella spp.[29] According to statistics from the United States Centers for Disease Control and Prevention, the chlorination of drinking water has led to dramatic decreases in the transmission of typhoid fever in the United States.[30]
+
+Vaccination
+Two typhoid vaccines are licensed for use for the prevention of typhoid:[7] the live, oral Ty21a vaccine (sold as Vivotif by Crucell Switzerland AG) and the injectable typhoid polysaccharide vaccine (sold as Typhim Vi by Sanofi Pasteur and Typherix by GlaxoSmithKline). Both are efficacious and recommended for travellers to areas where typhoid is endemic. Boosters are recommended every five years for the oral vaccine and every two years for the injectable form.[7] An older, killed whole-cell vaccine is still used in countries where the newer preparations are not available, but this vaccine is no longer recommended for use because it has a higher rate of side effects (mainly pain and inflammation at the site of the injection).[31]
+
+To help decrease rates of typhoid fever in developing nations, the World Health Organization (WHO) endorsed the use of a vaccination program starting in 1999. Vaccinations have proven to be a great way at controlling outbreaks in high incidence areas. Just as important, it is also very cost-effective. Vaccination prices are normally low, less than US$1 per dose. Because the price is low, poverty-stricken communities are more willing to take advantage of the vaccinations.[32] Although vaccination programs for typhoid have proven to be effective, they alone cannot eliminate typhoid fever.[32] Combining the use of vaccines with increasing public health efforts is the only proven way to control this disease.[32]
+
+Since the 1990s, two typhoid fever vaccines have been recommended by the WHO. The ViPS vaccine is given via injection, while the Ty21a is taken through capsules. Only people 2 years or older are recommended to be vaccinated with the ViPS vaccine, and it requires a revaccination after 2–3 years with a 55–72% vaccine efficacy. The alternative Ty21a vaccine is recommended for people 5 years or older, and has a 5-7-year duration with a 51–67% vaccine efficacy. The two different vaccines have been proven as a safe and effective treatment for epidemic disease control in multiple regions.[32]
+
+A version combined with hepatitis A is also available.[33]
+
+Results of a phase 3 trial of typhoid conjugate vaccine (TCV) in December 2019 reported 81% fewer cases among children.[34][35]
+
+Treatment
+Oral rehydration therapy
+The rediscovery of oral rehydration therapy in the 1960s provided a simple way to prevent many of the deaths of diarrheal diseases in general.[36]
+
+Antibiotics
+Where resistance is uncommon, the treatment of choice is a fluoroquinolone such as ciprofloxacin.[37][38] Otherwise, a third-generation cephalosporin such as ceftriaxone or cefotaxime is the first choice.[39][40][41][42] Cefixime is a suitable oral alternative.[43][44]
+
+Typhoid fever, when properly treated, is not fatal in most cases. Antibiotics, such as ampicillin, chloramphenicol, trimethoprim-sulfamethoxazole, amoxicillin, and ciprofloxacin, have been commonly used to treat typhoid fever.[45] Treatment of the disease with antibiotics reduces the case-fatality rate to about 1%.[46]
+
+Without treatment, some patients develop sustained fever, bradycardia, hepatosplenomegaly, abdominal symptoms, and occasionally, pneumonia. In white-skinned patients, pink spots, which fade on pressure, appear on the skin of the trunk in up to 20% of cases. In the third week, untreated cases may develop gastrointestinal and cerebral complications, which may prove fatal in up to 10–20% of cases. The highest case fatality rates are reported in children under 4 years. Around 2–5% of those who contract typhoid fever become chronic carriers, as bacteria persist in the biliary tract after symptoms have resolved.[47]
+
+Surgery
+Surgery is usually indicated if intestinal perforation occurs. One study found a 30-day mortality rate of 9% (8/88), and surgical site infections at 67% (59/88), with the disease burden borne predominantly by low-resource countries.[48]
+
+For surgical treatment, most surgeons prefer simple closure of the perforation with drainage of the peritoneum. Small-bowel resection is indicated for patients with multiple perforations. If antibiotic treatment fails to eradicate the hepatobiliary carriage, the gallbladder should be resected. Cholecystectomy is sometimes successful, especially in patients with gallstones, but is not always successful in eradicating the carrier state because of persisting hepatic infection.[49][50]
+
+Resistance
+As resistance to ampicillin, chloramphenicol, trimethoprim-sulfamethoxazole, and streptomycin is now common, these agents are no longer used as first–line treatment of typhoid fever.[51] Typhoid resistant to these agents is known as multidrug-resistant typhoid.[52]
+
+Ciprofloxacin resistance is an increasing problem, especially in the Indian subcontinent and Southeast Asia. Many centres are shifting from using ciprofloxacin as the first line for treating suspected typhoid originating in South America, India, Pakistan, Bangladesh, Thailand, or Vietnam. For these people, the recommended first-line treatment is ceftriaxone. Also, azithromycin has been suggested to be better at treating resistant typhoid in populations than both fluoroquinolone drugs and ceftriaxone.[38] Azithromycin can be taken by mouth and is less expensive than ceftriaxone which is given by injection.[53]
+
+A separate problem exists with laboratory testing for reduced susceptibility to ciprofloxacin; current recommendations are that isolates should be tested simultaneously against ciprofloxacin (CIP) and against nalidixic acid (NAL), and that isolates that are sensitive to both CIP and NAL should be reported as "sensitive to ciprofloxacin", but that isolates testing sensitive to CIP but not to NAL should be reported as "reduced sensitivity to ciprofloxacin". However, an analysis of 271 isolates showed that around 18% of isolates with a reduced susceptibility to fluoroquinolones, the class which CIP belongs, (MIC 0.125–1.0 mg/l) would not be picked up by this method.[54]
+
+Epidemiology
+Main article: Epidemiology of typhoid fever
+
+        Incidence of typhoid fever
+   Strongly endemic
+   Endemic
+   Sporadic cases
+In 2000, typhoid fever caused an estimated 21.7 million illnesses and 217,000 deaths.[5] It occurs most often in children and young adults between 5 and 19 years old.[55] In 2013, it resulted in about 161,000 deaths – down from 181,000 in 1990.[13] Infants, children, and adolescents in south-central and Southeast Asia experience the greatest burden of illness.[56] Outbreaks of typhoid fever are also frequently reported from sub-Saharan Africa and countries in Southeast Asia.[57][58][59] In the United States, about 400 cases occur each year, and 75% of these are acquired while traveling internationally.[60][61]
+
+Historically, before the antibiotic era, the case fatality rate of typhoid fever was 10–20%. Today, with prompt treatment, it is less than 1%.[62] However, about 3–5% of individuals who are infected develop a chronic infection in the gall bladder.[63] Since S. enterica subsp. enterica serovar Typhi is human-restricted, these chronic carriers become the crucial reservoir, which can persist for decades for further spread of the disease, further complicating the identification and treatment of the disease.[50] Lately, the study of S. enterica subsp. enterica serovar Typhi associated with a large outbreak and a carrier at the genome level provides new insights into the pathogenesis of the pathogen.[64][65]
+
+In industrialized nations, water sanitation and food handling improvements have reduced the number of cases.[66] Developing nations, such as those found in parts of Asia and Africa, have the highest rates of typhoid fever. These areas have a lack of access to clean water, proper sanitation systems, and proper health-care facilities. For these areas, such access to basic public-health needs is not in the near future.[67]
+
+In 2004–2005 an outbreak in the Democratic Republic of Congo resulted in more than 42,000 cases and 214 deaths.[55] Since November 2016, Pakistan has had an outbreak of extensively drug-resistant (XDR) typhoid fever.[68]
+
+History
+Spread
+During the course of treatment of a typhoid outbreak in a local village in 1838, English country doctor William Budd realised the "poisons" involved in infectious diseases multiplied in the intestines of the sick, were present in their excretions, and could be transmitted to the healthy through their consumption of contaminated water.[69] He proposed strict isolation or quarantine as a method for containing such outbreaks in the future.[70] The medical and scientific communities did not recognise the role of microorganisms in infectious disease until the work of Robert Koch and Louis Pasteur in the 1880s.[71][72][73]
+
+Organism involved
+
+Almroth Edward Wright developed the first effective typhoid vaccine.
+In 1880, Karl Joseph Eberth described a bacillus that he suspected was the cause of typhoid.[74][75][76] In 1884, pathologist Georg Theodor August Gaffky (1850–1918) confirmed Eberth's findings,[77] and the organism was given names such as Eberth's bacillus, Eberthella Typhi, and Gaffky-Eberth bacillus. Today, the bacillus that causes typhoid fever goes by the scientific name Salmonella enterica enterica, serovar Typhi.[78]
+
+Vaccine
+British bacteriologist Almroth Edward Wright first developed an effective typhoid vaccine at the Army Medical School in Netley, Hampshire. It was introduced in 1896 and used successfully by the British during the Boer War in South Africa.[79] At that time, typhoid often killed more soldiers at war than were lost due to enemy combat. Wright further developed his vaccine at a newly opened research department at St Mary's Hospital Medical School in London from 1902, where he established a method for measuring protective substances (opsonin) in human blood.[80]
+
+Citing the example of the Second Boer War, during which many soldiers died from easily preventable diseases, Wright convinced the British Army that 10 million vaccine doses should be produced for the troops being sent to the Western Front, thereby saving up to half a million lives during World War I.[81] The British Army was the only combatant at the outbreak of the war to have its troops fully immunized against the bacterium. For the first time, their casualties due to combat exceeded those from disease.[82]
+
+In 1909, Frederick F. Russell, a U.S. Army physician, adopted Wright's typhoid vaccine for use with the Army, and two years later, his vaccination program became the first in which an entire army was immunized. It eliminated typhoid as a significant cause of morbidity and mortality in the U.S. military.[83]
+
+Chlorination of water
+
+Lizzie van Zyl was a child inmate in a British-run concentration camp in South Africa who died from typhoid fever during the Boer War (1899–1902).
+Most developed countries had declining rates of typhoid fever throughout the first half of the 20th century due to vaccinations and advances in public sanitation and hygiene. In 1893 attempts were made to chlorinate the water supply in Hamburg, Germany and in 1897 Maidstone, England was the first town to have its entire water supply chlorinated.[84] In 1905, following an outbreak of typhoid fever, the City of Lincoln, England instituted permanent water chlorination.[85] The first permanent disinfection of drinking water in the US was made in 1908 to the Jersey City, New Jersey, water supply. Credit for the decision to build the chlorination system has been given to John L. Leal.[86] The chlorination facility was designed by George W. Fuller.[87]
+
+20th century
+
+Mary Mallon ("Typhoid Mary") in a hospital bed (foreground): She was forcibly quarantined as a carrier of typhoid fever in 1907 for three years and then again from 1915 until her death in 1938.
+In 1902, guests at mayoral banquets in Southampton and Winchester, England, became ill and four died, including the Dean of Winchester, after consuming oysters. The infection was due to oysters sourced from Emsworth, where the oyster beds had been contaminated with raw sewage.[88][89]
+
+The most notorious carrier of typhoid fever, but by no means the most destructive, was Mary Mallon, known as Typhoid Mary. In 1907, she became the first carrier in the United States to be identified and traced. She was a cook in New York, who was associated with 53 cases and three deaths.[90]
+
+Terminology
+The disease has been referred to by various names, often associated with symptoms, such as gastric fever, enteric fever, abdominal typhus, infantile remittant fever, slow fever, nervous fever, pythogenic fever,[91] drain fever and low fever.[92]
+
+Notable cases
+See also: Category:Deaths from typhoid fever
+William Henry Harrison, the 9th President of the United States of America, died 32 days into his term, in 1841. This is the shortest term served by a United States President.
+Stephen A. Douglas, political opponent of Abraham Lincoln in 1858 and 1860, died of typhoid on June 3, 1861.
+William Wallace Lincoln, the son of US president Abraham and Mary Todd Lincoln, died of typhoid in 1862.[93]
+Martha Bulloch Roosevelt, mother of president Theodore Roosevelt and paternal grandmother of Eleanor Roosevelt, died of typhoid fever in 1884.
+Edward VII of the UK, while still Prince of Wales, had a near fatal case of typhoid fever in 1871.[94] It was thought at the time that his father, the Prince Consort Albert, had also died of typhoid fever (in 1861)[95] but this is disputed.
+Leland Stanford Jr., son of American tycoon and politician A. Leland Stanford and eponym of Leland Stanford Junior University, died of typhoid fever in 1884 at the age of 15.[96]
+Gerard Manley Hopkins, English poet, died of typhoid fever in 1889.[97]
+Lizzie van Zyl, South African child inmate of the Bloemfontein concentration camp during the Second Boer War, died of typhoid fever in 1901.
+Dr HJH 'Tup' Scott, captain of the 1886 Australian cricket team that toured England, died of typhoid in 1910.[98]
+Arnold Bennett, English novelist, died in 1932 of typhoid, two months after drinking a glass of water in a Paris hotel to prove it was safe.[99]
+Hakaru Hashimoto, Japanese medical scientist, died of typhoid fever in 1934.[100]

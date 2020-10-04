@@ -1,0 +1,295 @@
+Dalmatian /dælˈmeɪʃən/[2][3] or Dalmatic /dælˈmætɪk/[2] (Dalmatian: langa dalmata, dalmato; Italian: lingua dalmatica, dalmatico; Croatian: dalmatski) is an extinct Romance language that was spoken in the Dalmatia region of present-day Croatia, and as far south as Kotor in Montenegro.[citation needed] The name refers to a tribe of the Illyrian linguistic group, Dalmatae. The Ragusan dialect of Dalmatian, the most studied prestige dialect, was the official language of the Republic of Ragusa for much of its medieval history until it was gradually supplanted by other local languages.
+
+Dalmatian speakers lived in the coastal towns of Zadar (Jadera), Trogir (Tragur, Traù), Spalato (Split; Spalato), Ragusa (Dubrovnik; Raugia, Ragusa), and Kotor (Cattaro), each of these cities having a local dialect, and on the islands of Krk (Vikla, Veglia), Cres (Crepsa), and Rab (Arba).[citation needed]
+
+
+Contents
+1	Dialects
+1.1	Ragusan dialect
+1.2	Vegliot dialect
+2	History
+2.1	Extinction
+3	Classification
+3.1	Similarities to Romanian
+3.2	Vlachs/Morlachs from Dalmatia and their language
+4	Grammar
+5	Vocabulary
+5.1	Swadesh list
+6	Literature
+7	Sample
+7.1	Parable of the Prodigal Son
+8	See also
+9	References
+10	Bibliography
+11	External links
+Dialects
+Almost every city developed its own dialect. Most of these became extinct before they were recorded, so the only trace of these ancient dialects is some words borrowed into local dialects of today's Croatia and Montenegro.[4]
+
+Ragusan dialect
+
+Republic of Ragusa before 1808
+Ragusan is the Southern dialect, whose name is derived from the Romance name of Dubrovnik, Ragusa. It came to the attention of modern scholars in two letters, from 1325 and 1397, and other mediaeval texts, which show a language influenced heavily by Venetian. The available sources include some 260 Ragusan words including pen 'bread', teta 'father', chesa 'house', and fachir 'to do', which were quoted by the Italian Filippo Diversi, the rector of the Ragusan grammar school in the 1430s.[citation needed]
+
+The Maritime Republic of Ragusa had a large and important fleet, by the 15th century numbering about 300 ships.[5] The language was threatened by the Slav expansion, as the Ragusan Senate decided that all debates had to be held in the lingua veteri ragusea (ancient Ragusan language) and the use of the Slav was forbidden. Nevertheless, during the 16th century, the Ragusan Romance language fell out of use and became extinct.[citation needed]
+
+Vegliot dialect
+Vegliot (the native name being Viklasun)[6] is the Northern dialect. Its name is derived from the Italian name of Krk, Veglia, an island in Kvarner, called Vikla in Vegliot. On an inscription dating from the beginning of the 4th century CE, Krk is named as Splendissima civitas Curictarum. The Serbo-Croatian name derives from the Roman name (Curicum, Curicta), whereas the younger name Vecla, Vegla, Veglia (meaning "Old Town") was created in the mediaeval Romanesque period.[citation needed]
+
+History
+
+Areas of Dalmatian dialects.
+Dalmatian evolved from the vulgar Latin of the Illyro-Romans. It was spoken on the Dalmatian coast from Fiume (now Rijeka) as far south as Cottora (Kotor) in Montenegro. Speakers lived mainly in the coastal towns of Jadera (Zadar), Tragurium (Trogir), Spalatum[7] (Split), Ragusa (Dubrovnik) and Acruvium (Kotor), and also on the islands of Curicta (Krk), Crepsa (Cres) and Arba (Rab). Almost every city developed its own dialect, but the most important dialects we know of were Vegliot, a northern dialect spoken on the island of Curicta, and Ragusan, a southern dialect spoken in and around Ragusa (Dubrovnik).[citation needed]
+
+The oldest preserved documents written in Dalmatian are 13th century inventories in Ragusa (Dubrovnik). Dalmatian is also known from two Ragusan letters, dated 1325 and 1397. The available sources include roughly 260 Ragusan words. Surviving words include pen 'bread', teta 'father', chesa 'house', and fachir 'to do', which were quoted by the Dalmatian, Filippo Diversi, Rector of the republic of Ragusa in the 1430s. The earliest reference to the Dalmatian language dates from the tenth century and it has been estimated that about 50,000 people spoke it at that time, though the main source of this information, the Italian linguist Matteo Bartoli, may have exaggerated his figures.[citation needed]
+
+Dalmatian was influenced particularly heavily by Venetian and Serbo-Croatian (despite the latter, the Latin roots of Dalmatian remained prominent). A 14th-century letter from Zadar (origin of the Iadera dialect) shows strong influence from Venetian, the language that after years under Venetian rule superseded Iadera and other dialects of Dalmatian. Other dialects met their demise with the settlement of populations of Slavic speakers.[citation needed]
+
+Extinction
+
+Tuone Udaina, the last speaker of Dalmatian
+In 1897, the scholar Matteo Bartoli, himself a native of nearby Istria, visited a burbur ('barber' in Dalmatian[citation needed]) Tuone Udaina (Italian: Antonio Udina), the last speaker of any Dalmatian dialect, to study his language, writing down approximately 2,800 words, stories, and accounts of his life, which were published in a book that has provided much information on the vocabulary, phonology, and grammar of the language. Bartoli wrote in Italian and published a translation in German (Das Dalmatische) in 1906. The Italian language manuscripts were reportedly lost, and the work was not re-translated into Italian until 2001.[citation needed]
+
+Just one year later, on 10 June 1898, Tuone Udaina was accidentally killed at 74 in a roadwork explosion.[8][9]
+
+Classification
+In the most recent classification from 2017 it was classified by the Max Planck Institute for the Science of Human History with the Istriot language in the Dalmatian Romance subgroup.[10]
+
+It was once thought to be a language that bridged the gap between Romanian and Italian, but it was only distantly related to the nearby Romanian dialects, such as the nearly extinct Istro-Romanian spoken in nearby Istria, Croatia.
+
+Some of its features are quite archaic. Dalmatian is the only Romance language that has palatalised /k/ and /ɡ/ before /i/, but not before /e/ (others have palatalised them in both situations, except Sardinian, which has not palatalised them at all): Latin: civitate > Vegliot: cituot ("city"), Latin: cenare > Vegliot: kenur ("to dine").[citation needed]
+
+Some Dalmatian words have been preserved as borrowings in South Slavic languages, in Chakavian and the Dubrovnik dialect of Shtokavian.[citation needed]
+
+Similarities to Romanian
+Among the similarities with Romanian, some phonemic shifts can be found among the Romance languages only in Dalmatian and Romanian:[citation needed]
+
+Origin	Result	Latin	Vegliot	Romanian	Italian	English
+/kt/	/pt/	octo	guapto	opt	otto	eight
+/ŋn/	/mn/	cognatus	comnut	cumnat	cognato	brother-in-law
+/ks/	/ps/	coxa	copsa	coapsă	coscia	thigh
+/e/	/a/	septem	sapto	șapte	sette	seven
+Vlachs/Morlachs from Dalmatia and their language
+Vlachs (Aromanians) from Herzegovina and Dalmatia were known as "Caravlachs" during Turkish occupation. "Cara" means black in Turkish and North in Turkish geography. Translated into Greek, the name became Morlachs (from Mauro Vlachs).[11] Vlachs or Morlachs spoke a language close to Romanian.[12] Vlachs or Morlachs spread into all Dalmatian areas including Adriatic isles and towns. The majority were Slavicized and many of them were Islamized or Catholicized.[13] Today there are only a dozen Morlachs in Croatia and they have lost their maternal Romance spoken language.
+
+Grammar
+Main article: Dalmatian grammar
+An analytic trend can be observed in Dalmatian: nouns and adjectives began to lose their gender and number inflexions, the noun declension disappeared completely, and the verb conjugations began to follow the same path, but the verb maintained a person and number distinction except in the third person (in common with Romanian and several dialects of Italy).[citation needed]
+
+The definite article precedes the noun, unlike in the Eastern Romance languages like Romanian, which have it postposed to the noun.[citation needed]
+
+Vocabulary
+Dalmatian kept Latin words related to urban life, lost (or if preserved, not with the original sense) in Romanian, such as cituot "city" (in old Romanian cetate means "city"; in modern Romanian "fort"; compare also Albanian qytet, borrowed from Latin, which, too, means "city"). The Dalmatians retained an active urban society in their city-states, whereas most Romanians were driven into small mountain settlements during the Great Migrations of 400 to 800 AD.[14]
+
+Venetian became a major influence on the language as Venetian commercial influence grew. The Chakavian dialect and Dubrovnik Shtokavian dialect of Serbo-Croatian, which were spoken outside the cities since the immigration of the Slavs, gained importance in the cities by the 16th century, and it eventually replaced Dalmatian as the day-to-day language. Nevertheless, some words were loaned into coastal Serbo-Croatian varieties:
+
+Dubrovnik: CL antemna > otijemna "sail pole"; columna > kelomna "pillar, column"; ficatum > pìkat "liver"; lucerna > lùk(i)jerna "oil lamp"; lixivum > lìksija "lye"; oculata > úkljata "black-tail sparus, Sparus melanurus"; recessa > rèkesa "ebb tide";
+Standard Croatian: arbor(em) > jȃrbor, jarbol (Slovenian jambor) "mast"; aurata > òvrata, obrata "gilt-head bream"; canaba > kònoba "(wine) cellar, cellar bar"; lolligo, -inem > òliganj, lȉganj, lȉgnja "squid"; margo, -inem > mr̀gin(j), mrganj "furrow or ditch marking a border"; tracta > trakta "dragnet, trawl", etc.[15]
+Swadesh list
+No.	English	Dalmatian
+1	I	ju
+2	you (singular)	te
+3	he	jal
+4	we	nu, noi
+5	you (plural)	vu, voi
+6	they	jali, jale
+7	this	cost
+8	that	cost
+9	here	kauk
+10	there	luk
+11	who	ko
+12	what	ce
+13	where	jo
+14	when	kand
+15	how	kal
+16	not	na, naun
+17	all	tot
+18	many	un maur
+19	some	certioin
+20	few	un pauk
+21	other	jultro, jiltri
+22	one	join
+23	two	doi
+24	three	tra
+25	four	kuatro
+26	five	cenk
+27	big	maur, luarg
+28	long	luang
+29	wide	luarg
+30	thick	dais
+31	heavy	pesunt
+32	small	pedlo
+33	short	kort
+34	narrow	*strant
+35	thin	*subtir
+36	woman	femia
+37	man (adult male)	jomno, vair
+38	man (human being)	jomno
+39	child	kratoir
+40	wife	mulier
+41	husband	marait
+42	mother	njena
+43	father	tuota
+44	animal	*namail
+45	fish	pask
+46	bird	paserain
+47	dog	kun
+48	louse	pedoklo
+49	snake	*sarpa
+50	worm	viarm
+51	tree	jarbul
+52	forest	buask
+53	stick	stal
+54	fruit	froit
+55	seed	grun
+56	leaf	fualja
+57	root	radaika
+58	bark (of a tree)	*scorta
+59	flower	fiaur
+60	grass	jarba
+61	rope	kanapial
+62	skin	pial
+63	meat	kuarne
+64	blood	suang
+65	bone	vuas
+66	fat (noun)	gruas
+67	egg	juf, juv
+68	horn	kuarno
+69	tail	kauda
+70	feather	*puana
+71	hair	kapei
+72	head	kup
+73	ear	orakla
+74	eye	vaklo
+75	nose	nuas
+76	mouth	buka
+77	tooth	diant
+78	tongue (organ)	langa
+79	fingernail	jongla
+80	foot	pi
+81	leg	*jamba
+82	knee	denaklo
+83	hand	mun
+84	wing	jal
+85	belly	viantro
+86	guts	alaite
+87	neck	kual
+88	back	duas
+89	breast	*san
+90	heart	kuor
+91	liver	fekuat
+92	to drink	bar
+93	to eat	mancuor
+94	to bite	moscuar
+95	to suck	*suger
+96	to spit	spoit
+97	to vomit	gomituor
+98	to blow	sublar
+99	to breathe	*respirar
+100	to laugh	redro
+101	to see	vedar
+102	to hear	senter
+103	to know	sapar
+104	to think	imisuarmer
+105	to smell	*urdoarer
+106	to fear	taimo
+107	to sleep	dormer
+108	to live	*vivar
+109	to die	morer
+110	to kill	*ucider
+111	to fight	*luptar
+112	to hunt	*vaunar
+113	to hit	botur
+114	to cut	taljur
+115	to split	spartar
+116	to stab	*oinguar
+117	to scratch	*scarpinur
+118	to dig	pasnur
+119	to swim	*nuotar
+120	to fly	blairer
+121	to walk	kaminur
+122	to come	venir
+123	to lie (as in a bed)	*jaurer
+124	to sit	stur
+125	to stand	stur
+126	to turn (intransitive)	*girar
+127	to fall	kadar
+128	to give	duor
+129	to hold	tenar
+130	to squeeze	shtrengar
+131	to rub	jongar
+132	to wash	*lavar
+133	to wipe	*sterger
+134	to pull	truar
+135	to push	*pingar
+136	to throw	*trubar
+137	to tie	lijuar
+138	to sew	koser
+139	to count	embruar
+140	to say	dekro
+141	to sing	kantur
+142	to play	jukur
+143	to float	*plutir
+144	to flow	*scarer
+145	to freeze	glazir
+146	to swell	craseror
+147	sun	saul
+148	moon	loina
+149	star	stala
+150	water	jakva
+151	rain	pluaja
+152	river	fluaim
+153	lake	lak
+154	sea	mur
+155	salt	suol
+156	stone	pitra
+157	sand	sablaun, salbaun
+158	dust	pulvro
+159	earth	tiara
+160	cloud	*nueba
+161	fog	*cieta
+162	sky	cil
+163	wind	viant
+164	snow	nai
+165	ice	glaz
+166	smoke	*fuma
+167	fire	fuok
+168	ash	kanaisa
+169	to burn	ardar
+170	road	kale
+171	mountain	muant
+172	red	ruas
+173	green	viart
+174	yellow	zuola
+175	white	jualb
+176	black	fosk, niar
+177	night	nuat
+178	day	dai
+179	year	jan
+180	warm	cuold
+181	cold	gheluat
+182	full	plain
+183	new	nuv
+184	old	vieklo
+185	good	bun
+186	bad	mul, ri
+187	rotten	muas, ri
+188	dirty	spuark
+189	straight	drat
+190	round	*runt
+191	sharp (as a knife)	*acu
+192	dull (as a knife)	*obtus
+193	smooth	*gliscio
+194	wet	joit
+195	dry	sak
+196	correct	drat, jost
+197	near	alic
+198	far	distuont
+199	right	diastro
+200	left	*sanest
+201	at	saupra
+202	in	in
+203	with	kon
+204	and	e
+205	if	*sa
+206	because	perko
+207	name	naum
