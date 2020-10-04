@@ -1,0 +1,4 @@
+.preview-cell {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

@@ -1,4 +1,4 @@
-var jsonified = [];
+var jsonifiedData = [];
 var showViewer = false;
 var showSpinner = true;
 
@@ -8,7 +8,7 @@ document.addEventListener( 'DOMContentLoaded', async function () {
     // populateTagPanel();
     // populateTable("");
     await loadData();
-    populateTable();
+    populateTable(jsonifiedData);
 });
 
 
@@ -20,9 +20,9 @@ async function loadData() {
         await fetch('data/text-files/' + file)
             .then(response=>response.text())
             .then(data=> {
-                jsonified.push({
+                jsonifiedData.push({
                     id: count,
-                    title: file,
+                    title: file.slice(0, -4),
                     tags: [],
                     text: data,
                 });
