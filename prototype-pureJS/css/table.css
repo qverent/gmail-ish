@@ -1,4 +1,10 @@
-.preview-cell {
+/* .table .preview-cell {
+    max-width: 300px;
     overflow: hidden;
     text-overflow: ellipsis;
+    white-space: nowrap;
+} */
+
+.table tbody td {
+    font-size: 0.85rem !important;
 }
