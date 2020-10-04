@@ -1,6 +1,9 @@
-/* Sets docInView with the ID of the selected document*/
+/* Sets docInView with the ID of the selected document
+ * Triggers transition to document viewer
+ */
 function handleRowClick(id){
     docInView = id;
+    showViewer();
 }
 
 
@@ -35,7 +38,7 @@ function populateTable(data) {
         row.onclick = () => {
             handleRowClick(datum.id);
         };
-        
+
         const datumID = document.createElement('TH');
         let attrDatumID = document.createAttribute('scope');
         attrDatumID.value = datum.id;

@@ -6,9 +6,8 @@ var index = [];
 var showSpinner = true;
 
 
-/* Populate page */
+/* Populate page on entry */
 document.addEventListener( 'DOMContentLoaded', async function () {
-    // populateTagPanel();
     await loadData();
     await hashLoadedData();
     document.getElementById('loading').classList.add('hidden');
@@ -17,6 +16,26 @@ document.addEventListener( 'DOMContentLoaded', async function () {
     populateTable(jsonifiedData);
 });
 
+/* Hides the table and populates the docViewer based on current docInView*/
+function showViewer(){
+    // populateTagPanel();
+    populateViewer();
+    document.getElementById('search-table').classList.add('hidden');
+    document.getElementById('doc-viewer').classList.remove('hidden');
+}
+
+/* Populates viewer with document text*/
+function populateViewer() {
+    const viewerTextArea = document.querySelector('#doc-viewer-text');
+    const text = jsonifiedData.filter(datum => datum.id === docInView)[0].text;
+    const newLines = text.split("\n");
+    newLines.forEach(newline=> {
+        const paragraph = document.createElement('P');
+        paragraph.classList.add('card-text', 'text-justify');
+        paragraph.appendChild(document.createTextNode(newline));
+        viewerTextArea.appendChild(paragraph);
+    });
+}
 
 /* Reads and jsonifies text files.
 Treats filename as title and assigns an ID sequentially */
