@@ -2,7 +2,7 @@ var docInView = 0;
 var jsonifiedData = [];
 var hashedData = {};
 var index = [];
-var showViewer = false;
+// var showViewer = false;
 var showSpinner = true;
 
 

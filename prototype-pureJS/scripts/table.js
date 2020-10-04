@@ -1,3 +1,9 @@
+/* Sets docInView with the ID of the selected document*/
+function handleRowClick(id){
+    docInView = id;
+}
+
+
 /* Empties the table*/
 function clearTable(){
     const table = document.querySelector('#search-table > tbody');
@@ -20,13 +26,16 @@ function formatPreviewString(text) {
     return result;
 }
 
+
 /* Populates table with ID, title, preview text and tags*/
 function populateTable(data) {
-    console.log('populatig');
     const table = document.querySelector('#search-table > tbody');
     data.forEach(datum=>{
         const row = document.createElement('TR');
-
+        row.onclick = () => {
+            handleRowClick(datum.id);
+        };
+        
         const datumID = document.createElement('TH');
         let attrDatumID = document.createAttribute('scope');
         attrDatumID.value = datum.id;
@@ -38,7 +47,6 @@ function populateTable(data) {
 
         const datumPreview = document.createElement('TD');
         datumPreview.classList.add('preview-cell');
-        // datumPreview.appendChild(document.createTextNode(datum.text.substring(0, 90)));
         datumPreview.innerHTML = formatPreviewString(datum.text.substring(0, 90));
         const datumTags = document.createElement('TD');
 
