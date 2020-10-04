@@ -1,5 +1,6 @@
 function populateTable(data) {
-    const table = document.getElementById('search-table');
+    // const table = document.getElementById('search-table');
+    const table = document.querySelector('#search-table > tbody');
     data.forEach(datum=>{
         const row = document.createElement('TR');
 
