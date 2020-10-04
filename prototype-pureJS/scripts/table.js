@@ -1,5 +1,28 @@
+/* Empties the table*/
+function clearTable(){
+    const table = document.querySelector('#search-table > tbody');
+    while (table.hasChildNodes()) table.removeChild(table.lastChild);
+}
+
+
+/* Returns an html string that bolds the first sentence */
+function formatPreviewString(text) {
+    let result = "<strong>";
+    let index = text.indexOf(".") || text.indexOf("? ") || text.indexOf("! ") || (text.indexOf("\" "));
+    if (index === -1) {
+        result += `${text}</strong>`;
+    }
+    else {
+        result += text.substring(0, index+1);
+        result += "</strong>";
+        result += text.substring(index+1);
+    }
+    return result;
+}
+
+/* Populates table with ID, title, preview text and tags*/
 function populateTable(data) {
-    // const table = document.getElementById('search-table');
+    console.log('populatig');
     const table = document.querySelector('#search-table > tbody');
     data.forEach(datum=>{
         const row = document.createElement('TR');
@@ -25,19 +48,4 @@ function populateTable(data) {
         row.appendChild(datumTags);
         table.appendChild(row);
     });
-}
-
-/* Returns an html string that bolds the first sentence */
-function formatPreviewString(text) {
-    let result = "<strong>";
-    let index = text.indexOf(".") || text.indexOf("? ") || text.indexOf("! ") || (text.indexOf("\" "));
-    if (index === -1) {
-        result += `${text}</strong>`;
-    }
-    else {
-        result += text.substring(0, index+1);
-        result += "</strong>";
-        result += text.substring(index+1);
-    }
-    return result;
 }

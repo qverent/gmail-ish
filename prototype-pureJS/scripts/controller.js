@@ -1,4 +1,7 @@
+var docInView = 0;
 var jsonifiedData = [];
+var hashedData = {};
+var index = [];
 var showViewer = false;
 var showSpinner = true;
 
@@ -7,6 +10,7 @@ var showSpinner = true;
 document.addEventListener( 'DOMContentLoaded', async function () {
     // populateTagPanel();
     await loadData();
+    await hashLoadedData();
     document.getElementById('loading').classList.add('hidden');
     document.getElementById('search-bar').classList.remove('hidden');
     document.getElementById('search-table').classList.remove('hidden');
