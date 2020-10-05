@@ -18,7 +18,8 @@ document.addEventListener( 'DOMContentLoaded', async function () {
 
 /* Hides the table and populates the docViewer based on current docInView*/
 function showViewer(){
-    // populateTagPanel();
+    populateTagPanelActive();
+    populateTagPanelInactive();
     populateViewer();
     document.getElementById('search-table').classList.add('hidden');
     document.getElementById('doc-viewer').classList.remove('hidden');
