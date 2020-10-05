@@ -18,6 +18,8 @@
                     <img src="assets/logo+black.png" class="img-fluid" alt="Segmed logo" />
                 </div>
                 <div class="col-9">
+                    <div id="search-back" class="hidden">
+                    </div>
                     <div id="search-bar" class="hidden">
                         <form class="form-inline align-items-center justify-content-between">
                             <div class="col-6">
@@ -62,8 +64,8 @@
                     </table>
                     <div class="hidden" id="doc-viewer">
                         <div class="row bg-dark">
-                            <div class="col">
-                                Navigation
+                            <div class="col text-right">
+                                <button type="button" class="btn btn-dark" onclick="handleBackButton()">Back</button>
                             </div>
                         </div>
                         <div class="row">
@@ -84,7 +86,7 @@
                             </div>
                             <div class="col-9">
                                 <div class="card">
-                                    <div class="card-body" id="doc-viewer-text">
+                                    <div class="card-body" id="doc-viewer-text" ondragover="handleTagDragOver(event)" ondrop="handleTagDrop(event)">
                                     </div>
                                 </div>
                             </div>

@@ -34,9 +34,11 @@ If user accidentally adds a word to include but also exclude, it is neutralized 
 * Performs search and updates tables
 */
 function search(){
+    console.log('search');
     let resultsID = searchHelperIWP();
     resultsID = searchHelperEW(resultsID);
     resultsID = searchHelperEP(resultsID);
+    searchResults = resultsID;
     clearTable();
     populateTable(jsonifiedData.filter(datum => resultsID.includes(datum.id)));
 }
@@ -75,7 +77,7 @@ function searchHelperEW(resultsID) {
  */
 function searchHelperIWP() {
     let resultsID = new Set(searchHelperIW());
-    searchHelperIP().forEach(id => resultsID.add(id));
+    if (searchIncludePhrases.length > 0) searchHelperIP().forEach(id => resultsID.add(id));
     return [...resultsID];
 }
 
@@ -84,7 +86,7 @@ function searchHelperIWP() {
  * Returns an array of document IDs that contains any searched phrase
  */
 function searchHelperIP() {
-    if (searchIncludePhrases.length === 0) return [...index];
+    // if (searchIncludePhrases.length === 0) return [...index];
     let resultsID = new Set();
     searchIncludePhrases.forEach(phrase => {
         index.forEach(index => {

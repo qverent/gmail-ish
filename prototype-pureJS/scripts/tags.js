@@ -3,7 +3,7 @@
  * Re-renders tag panels
  */
 function activateTag(tagID) {
-    jsonifiedData.filter(datum => datum.id === docInView)[0].tags.push(tagID);
+    jsonifiedData.filter(datum => datum.id === docInView)[0].tags.push(Number(tagID));
     clearTagPanel('tags-inactive');
     populateTagPanelInactive();
     clearTagPanel('tags-active');
@@ -46,6 +46,7 @@ function populateTagPanelActive() {
     tagIDs.forEach(tagID=>{
         const tagInfo = tagsMasterlist.filter(t => tagID === t.id)[0];
         let span = document.createElement('SPAN');
+        span.setAttribute('id', tagID);
         span.onclick=()=>{ deactivateTag(tagID)};
         span.classList.add('badge', 'badge-pill', 'tag', 'tag-active');
         span.appendChild(document.createTextNode(`${tagInfo.text} [${tagID}]`));
@@ -63,9 +64,27 @@ function populateTagPanelInactive() {
     inactiveTags.forEach(tag => {
         let span = document.createElement('SPAN');
         span.onclick=()=>{activateTag(tag.id)};
+        span.setAttribute('id', tag.id);
+        span.setAttribute('draggable', true);
+        span.setAttribute('ondragstart', 'handleTagDrag(event)');
         span.classList.add('badge', 'badge-pill', 'badge-light', 'tag');
         span.appendChild(document.createTextNode(`${tag.text} [${tag.id}]`));
         panel.appendChild(span);
     }); 
+}
+
+function handleTagDrag(e) {
+    e.dataTransfer.setData('text/plain', e.target.id);
+}
+
+function handleTagDragOver(e) {
+    e.preventDefault();
+}
+
+function handleTagDrop(e) {
+    e.preventDefault();
+    const tagID = e.dataTransfer.getData('text/plain');
+    e.dataTransfer.clearData();
+    activateTag(tagID);
 }
 

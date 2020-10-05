@@ -51,8 +51,15 @@ function populateTable(data) {
         const datumPreview = document.createElement('TD');
         datumPreview.classList.add('preview-cell');
         datumPreview.innerHTML = formatPreviewString(datum.text.substring(0, 90));
+        
         const datumTags = document.createElement('TD');
-
+        datum.tags.forEach(tag => {
+            const tagInfo = tagsMasterlist.filter(t => t.id === tag)[0];
+            const span = document.createElement('SPAN');
+            span.classList.add('badge', 'badge-pill', 'tag', 'tag-active');
+            span.appendChild(document.createTextNode(`${tagInfo.text} [${tag}]`));
+            datumTags.appendChild(span);
+        });
         row.appendChild(datumID);
         row.appendChild(datumTitle);
         row.appendChild(datumPreview);

@@ -2,7 +2,6 @@ var docInView = 0;
 var jsonifiedData = [];
 var hashedData = {};
 var index = [];
-// var showViewer = false;
 var showSpinner = true;
 
 
@@ -15,6 +14,17 @@ document.addEventListener( 'DOMContentLoaded', async function () {
     document.getElementById('search-table').classList.remove('hidden');
     populateTable(jsonifiedData);
 });
+
+/* Hides document Viewer and shows table; resets docInView*/
+function handleBackButton(){
+    clearTagPanel('tags-inactive');
+    clearTagPanel('tags-active');
+    clearTable();
+    searchResults.length === 0 ? populateTable(jsonifiedData) : populateTable(jsonifiedData.filter(datum => searchResults.includes(datum.id)));
+    document.getElementById('search-table').classList.remove('hidden');
+    document.getElementById('doc-viewer').classList.add('hidden');
+    docInView = 0;
+}
 
 /* Hides the table and populates the docViewer based on current docInView*/
 function showViewer(){
