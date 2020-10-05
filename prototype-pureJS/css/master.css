@@ -35,6 +35,10 @@ body {
     margin: 0.4em !important;
 }
 
+.tag-active {
+    background-color: var(--segmed-orange-light);
+}
+
 input[type="search"], textarea {
     font-weight: 300;
 }
